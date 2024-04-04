@@ -1,6 +1,6 @@
 # Script de La Cité de la Peur
 
-Ce monument de la culture française est une mine d'or de citations extraordinaires. D'où le besoin d'avoir continuellement accès au script.
+Ce monument de la culture française est une mine d'or de citations extraordinaires. D'où le besoin d'avoir continuellement accès au [script complet](script.md).
 
 Merci à jbn pour le passage en suèdois!
 
