@@ -8,7 +8,7 @@ Merci à jbn pour le passage en suèdois!
 
 ## Générer les fichiers PDF et HTML
 
-Le script est également disponible en [PDF](output/script.pdf) et en [HTML](output/script.html). Ils sont générés à partir du fichier [source](script.fountain) avec la commande:
+Le script est également disponible en [PDF](output/script.pdf) et en [HTML](https://html-preview.github.io/?url=https://github.com/conchyliculture/cite-de-la-peur-script/blob/main/output/script.html). Ils sont générés à partir du fichier [source](script.fountain) avec la commande:
 
 `bash generate.sh`
 
