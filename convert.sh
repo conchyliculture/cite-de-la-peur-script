@@ -9,3 +9,8 @@ pip install 'screenplain[PDF]'
 
 screenplain  --format html script.fountain output/script.html
 screenplain  --format pdf script.fountain output/script.pdf
+
+git checkout gh-pages
+git merge main
+git checkout main
+git push 
