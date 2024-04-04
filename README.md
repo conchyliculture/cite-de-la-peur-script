@@ -10,7 +10,7 @@ Merci à jbn pour le passage en suèdois!
 
 Le script est également disponible en [PDF](output/script.pdf) et en [HTML](https://conchyliculture.github.io/cite-de-la-peur-script/output/script.html). Ils sont générés à partir du fichier [source](script.fountain) avec la commande:
 
-`bash generate.sh`
+`bash convert.sh`
 
 
 ## Références
