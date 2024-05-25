@@ -339,7 +339,7 @@ Du nouveau pour nos amis d'Outre Quiévrain qui aiment la batavia ! en effet ell
 VOIX OFF
 Paris, le même jour
 
-POLICIER
+MARC
 Kara !...Le patron te demande !
 
 SERGE KARAMAZOV
@@ -348,24 +348,25 @@ Pardon Marc, chui désolé, comme j'arrête de fumer en ce moment, chui un peu n
 MARC
 C'est rien ! De toute façon j'avais pleins de problèmes avec ma femme en ce moment... et puis, ils m'ont sucré la garde de la gosse, et ma femme tu sais...
 
-TIFANIE : Yes....yes....yes....yes.
+TIFFANY
+Yes....yes....yes....yes.
 
 SERGE KARAMAZOV
-Salut Tifanie ça va? Oh dis donc c'est joli ça c'est quoi, c'est du cachemire ?
+Salut Tiffany ça va? Oh dis donc c'est joli ça c'est quoi, c'est du cachemire ?
 
-TIFANIE
+TIFFANY
 C'est du coton.
 
 SERGE KARAMAZOV
-Tifanie, je veux pas te prendre la tête avec ça, mais est-ce que je peux dormir chez toi ce soir, parce que j'ai perdu ma mère ce matin.
+Tiffany, je veux pas te prendre la tête avec ça, mais est-ce que je peux dormir chez toi ce soir? Parce que j'ai perdu ma mère ce matin.
 
-TIFANIE
+TIFFANY
 Elle est morte ?
 
 SERGE KARAMAZOV
-Non non j'l'ai perdue. C'est-à-dire que je l'ai perdue quoi, elle était là et pouf, je l'ai perdue ... Mais mon chien est mort par contre. Alors si je pouvais dormir chez toi tu vois juste pour avoir une présence un compagnon pour pas être seul.
+Non non j'l'ai perdue. C'est-à-dire que je l'ai perdue quoi, elle était là et pou-pouf, je l'ai perdue ... Mais mon chien est mort par contre. Alors si je pouvais dormir chez toi tu vois juste pour avoir une présence, un compagnon pour pas être seul.
 
-TIFANIE
+TIFFANY
 Ça fait trois fois qu'il est mort ton chien.
 
 SERGE KARAMAZOV
@@ -374,14 +375,14 @@ Ah mais il a beaucoup souffert hein.
 PATRON
 Karamazov est arrivé ?
 
-TIFANIE
+TIFFANY
 Oui monsieur il est là.
 
 PATRON
 Faites-le entrer.
 
 SERGE KARAMAZOV
-J'ai pas fait exprès patron c'était un accident
+J'ai pas fait exprès patron c'était un accident.
 
 PATRON
 Je ne vous parle pas de la princesse Valoni. J'ai reçu ce matin un coup de fil du festival de Cannes. Vous connaissez Cannes ?
@@ -390,13 +391,19 @@ SERGE KARAMAZOV
 Euh, j'y suis allé en colo quand j'avais sept ans.
 
 PATRON
-J'étais sûr que vous étiez l'homme de la situation. Bien ! Vous prenez l'avion Paris-Nice de 10 heures. Hum. Ce qui veut dire qu'il ne devrait pas décoller avant 13 heures.
+J'étais sûr que vous étiez l'homme de la situation. Bien ! Vous prenez l'avion Paris-Nice de 10 heures. Ce qui veut dire qu'il ne devrait pas décoller avant 13 heures.
 
 SERGE KARAMAZOV
 Oui parce que là il est 11 heures.
 
 PATRON
-Et alors ? La personne à protéger est une vedette de cinéma. Simon Jérémi. Vous le réceptionnez à Nice, votre contact s'appelle Odile Deray. D E R A Y. L'attachée de presse. Vous resterez toute la durée du festival. Mais attention, ce ne sera pas une partie de plaisir. L'attachée de presse m'a parlé d'un tueur à la faucille et au marteau. Un tueur mystérieux qui aurait un rapport avec son film, une histoire d'idenreyrgyerevrtification ou quelque chose comme ça. Vous me suivez ?
+Et alors ? 
+
+SERGE KARAMAZOV
+Ben non, ben...
+
+PATRON
+La personne à protéger est une vedette de cinéma. Simon Jérémi. Vous le réceptionnez à Nice. Votre contact s'appelle Odile Deray. D E R A Y. L'attachée de presse. Vous resterez toute la durée du festival. Mais attention, ce ne sera pas une partie de plaisir. L'attachée de presse m'a parlé d'un tueur à la faucille et au marteau. Un tueur mystérieux qui aurait un rapport avec son film, une histoire d'iden-identi-fircation ou quelque chose comme ça. Vous me suivez ?
 
 SERGE KARAMAZOV
 Oui, oui en gros oui.
@@ -417,14 +424,13 @@ PATRON
 Jusqu'à son avortement.
 
 SERGE KARAMAZOV
-Mais, yavè le....
+Mais, y'avait le....
 
 PATRON
 Pas de mais ! Ça suffit les conneries. Et pour une fois, essayez de penser avec votre tête, et non pas avec votre... !
 
-
 ANNONCE SONORE
-Aréoport de Nice. Arèoport de Nice. Deux minutes d'arrêt.
+Aréoport de Nice. Aréoport de Nice. Deux minutes d'arrêt.
 
 SERGE KARAMAZOV
 Euh... Odile Deray ?
@@ -451,7 +457,7 @@ ODILE DERAY
 C'est moi !
 
 SERGE KARAMAZOV
-J'suis envoyé par l'agence Security.
+Aaahh ! J'suis envoyé par l'agence Security.
 
 ODILE DERAY
 Et vous êtes ?
@@ -472,31 +478,44 @@ SERGE KARAMAZOV
 Non parce que Karamazov, les frères, aucun lien, fils unique.
 
 ODILE DERAY
-Ah d'accord, oui bien sûr. Ah ah ah ah ah !!Oui oui oui, c'est drôle.
+Ah d'accord, oui bien sûr. Ah ah ah ah ah ! Oui oui oui, c'est drôle.
+
+SERGE KARAMAZOV
+C'est vrai?
 
 TOURISTE
-Loulou ? Loulou ? Loulou ? Loulou ?
+Loulou ? 
+
+ANNONCE SONORE
+Attention!
+
+TOURISTE
+Loulou ? Loulou ? Loulou ?
 
 LOULOU
 Oui, c'est moi.
+
+ANNONCE SONORE
+Attention!
 
 ODILE DERAY
 Cigarette ?
 
 SERGE KARAMAZOV
-Non merci, essais d'arrêter.
+Non merci, j'essaie d'arrêter.
 
-SYLVIE
+ANNONCE SONORE
+Attention ! Les avions à destination de Hest et Poïs, Haelé et Mashou sont attendus quai n°7. Attention ! L'arrière de l'appareil ne dessert pas les villes de Huos et Pisn.
+Merci de votre attention ! 
+
+ODILE DERAY
+Le voilà!
+
+HÔTESSE ARÉOPORT
 Et voilà, au revoir Simon.
 
 SIMON JÉRÉMI
 Au revoir Sylvie.
-
-ODILE DERAY
-Le voilà !
-
-ANNONCE SONORE
-Attention ! Les avions à destination de H_ et P_ sont attendus quai n°7. Attention ! L'arrière de l'appareil ne dessert pas les villes de H_ et P_.
 
 ODILE DERAY
 Bonjour Simon, je suis Odile Deray. Simon Jérémi, voici Serge Karamazov.
@@ -514,17 +533,21 @@ ODILE DERAY
 Non non c'est pas grave ! Allons-y !
 
 SERGE KARAMAZOV
-Dites on n'attend pas votre sœur ?
+Dites, on n'attend pas votre sœur ?
 
 ODILE DERAY
-Bon Mr Karamazov vous conduisez, moi je passe derrière. Vous Simon vous prenez la place du mort. ... Non, bon, Simon Simon, mettez vous là vous serez mieux, hein ?
+Bon Mr Karamazov vous conduisez, moi je passe derrière. Vous Simon vous prenez la place du mort.
+
+Simon sort un corps du coffre de la voiture
+
+ODILE DERAY
+Non, bon, Simon Simon, mettez vous là vous serez mieux, hein ?
 
 SIMON JÉRÉMI
 D'accord !
 
 PUBLICITÉ
 Direction assistée... Intérieur cuir.....Condamnation centrale des portes.....Safrane série limitée palme d'or, une voiture, qu'elle est bien pour la conduire.
-
 
 ODILE DERAY
 Je vais faire de vous une star, Simon. Une vraie star ! Comme publicité on pouvait pas rêver mieux ! Un vrai meurtre comme dans votre film ! En plein festival de Cannes ! Va falloir faire des photos au fait hein ! Vous faites des photos, Simon ?
@@ -548,7 +571,7 @@ ODILE DERAY
 Oh mais non je suis sotte c'est du suédois !
 
 SIMON JÉRÉMI
-Romé no chsoui sote cadousouédoi.
+Omé no chsoui sote sadousouédoi.
 
 SERGE KARAMAZOV
 Mais, attends, attendez... Excusez-moi, parce que si vous faites toujours comme ça, moi comment voulez vous qu'avec le truc je fasse le chose. Attendez, tenez... il est quelque part.....Tenez ! Comme ça c'est plus prudent ! Ça va derrière ?
@@ -581,14 +604,21 @@ SIMON JÉRÉMI
 Non ! Non c'est parce que quand je suis content je vomis ! Et là j'suis hyper content !
 
 ODILE DERAY
-Au fait j'ai laissé mon agenda à la salle ! Le cinéma est pas très loin j'irai à pied, jetez moi ici ! – Merde !
+Au fait j'ai laissé mon agenda à la salle ! Le cinéma est pas très loin j'irai à pied, jetez moi ici !
+
+Odile se fait jeter de la voiture qui ne s'arrête pas. Elle se casse un ongle.
+
+ODILE DERAY
+Merde ! Merde.
 
 SIMON JÉRÉMI
 A votre avis, c'est qui le plus fort, l'hippopotame ou l'éléphant ? Non parce que l'hippopotame c'est quand même très très fort !
 
 SERGE KARAMAZOV
 Bonsoir, nous avons une réservation pour Karamazov et Jérémi s'il vous plait.
-Réceptionniste : Oui, si vous voulez bien remplir cette fiche.
+
+RÉCEPTIONNISTE "LE MARTINEZ"
+Oui, si vous voulez bien remplir cette fiche.
 
 SIMON JÉRÉMI
 Vous avez pas faim ?
@@ -620,65 +650,75 @@ Euh, n'importe quoi, des gencives de porc ?
 SERGE KARAMAZOV
 Excusez-moi, vous savez où est-ce qu'on peut manger de bonnes gencives de porc dans le coin ?
 
-RECEPTIONNISTE
+RÉCEPTIONNISTE "LE MARTINEZ"
 Chez Laplaud, les meilleures gencives du littoral. Voulez vous que je vous réserve une table ?
 
 SERGE KARAMAZOV
 Oui.
 
-PROJECTIONNISTE 2
-Oui oui tu es toute à moi... moi... moi aussi je suis tout à toi. Tout à toi tout entier...mon corps tout entier est à toi. mmmon amour! Tu me tues toi, tu sais tu me tues. À qui c'est mon nez ? Voui ! Voui ! À qui c'est mes oreilles ? Voui ! Voui ! À qui c'est mon ventrou ? Voui ! Voui ! À qui y sont mes pieds ? Non ! Non ! Akisé, akisé, akisé ... Une seconde voulez vous ? À qui c'est ma, à qui c'est ma, ça va couper chéri !
+PROJECTIONNISTE 2 (MR MIREILLE)
+Moui ! Moui... moui tu es toute à moi...oui ... moi... moi aussi je suis tout à toi. Tout à toi tout entier...mon corps tout entier est à toi.
 
-GROOM
-Alors vous allez être content parce que l'an dernier c'est Nicoletta qui avait votre chambre
+Le meurtrier se rapproche dans le couloir
+
+PROJECTIONNISTE 2 (MR MIREILLE)
+Mmmon amour! Tu me tues toi, tu sais tu me tues. À qui c'est mon nez ? Voui ! Voui ! À qui c'est mes oreilles ? Voui ! Voui ! À qui c'est mon ventrou ? Voui ! Voui ! À qui y sont mes pieds ? Non ! Non ! Akisé, akisé, akisé ... Une seconde voulez vous ? À qui c'est ma, à qui c'est ma, ça va couper chéri !
+
+CHASSEUR "LE MARTINEZ"
+Alors vous allez être content parce que l'année dernière c'est Nicoletta qui avait votre chambre.
 
 SERGE KARAMAZOV
 Sécurité, je passe en premier !
 
-GROOM
+CHASSEUR "LE MARTINEZ"
 Et vous voulez que j'allume ?
 
 SERGE KARAMAZOV
 Je trouverai !
 
-GROOM
+CHASSEUR "LE MARTINEZ"
 Alors comme ça vous êtes acteur ?
 
 SIMON JÉRÉMI
 Euh euh ! Oui !
 
-GROOM
+CHASSEUR "LE MARTINEZ"
 C'est bien ça....Et, et vous avez fait comment pour entrer dans le cinéma?
 
 SIMON JÉRÉMI
 C'est parce que je connais l'ouvreuse.
 
-GROOM
-Ah oui ! Eh les relations ça sert hein ! Moi je connais personne.
+CHASSEUR "LE MARTINEZ"
+Ah oui ! Eh les relations ça sert hein ! Moi je connais personne. Non...
 
 SERGE KARAMAZOV
 C'est bon on prend la chambre. Mais rangez un peu. Je veux dire avec le prix qu'on paye, c'est quand même le minimum c'est qu'il y est un peu de ménage qui soit fait !
 
-(pose sur la table un tube de gel sa trompette et des tampax entre autres...)
+CHASSEUR "LE MARTINEZ"
+Eh dites, ça vous ennuie de me signer un petit autographe ?
 
-GROOM
-Eh dites, ça vous ennuie de me signer un petit autographe ?non ? Alors, voilà, c'est pour ma sœur, c'est pour Edwige, pur, non pour vous avez écrit pur... pas de h, Edwige avec un « e »... pas... o-u pas ou ! W ! Edwige !
+(Pendant l'autographe, Serge pose sur la table un tube de gel, sa trompette, un taser, et des tampax etc.)
+
+CHASSEUR "LE MARTINEZ"
+non ? Alors, voilà, c'est pour ma sœur, c'est pour Edwige. "pur" ? Non, "pour". Vous avez écrit "pur"... pas de h, Edwige avec un "e"... pas... "o-u" pas "ou" ! W ! Edwige !
 
 SIMON JÉRÉMI
 Ah oui!
 
-GROOM
+CHASSEUR "LE MARTINEZ"
 Voilà c'est bien..... Et le « e » à la fin ? Voilà. Merci beaucoup. Ah, mais vous avez oublié de signer !
 
 SERGE KARAMAZOV
 Voilà, merci.
 
-GROOM
+CHASSEUR "LE MARTINEZ"
 La clef.
 
 SERGE KARAMAZOV
-La clef.
-Au revoir -
+La clef. Au revoir -
+
+CHASSEUR "LE MARTINEZ"
+Au revoir.
 
 SERGE KARAMAZOV
 Bon, Simon, pour les lits comment on fait ? On tire à pile ou face ?
@@ -695,10 +735,13 @@ J'suis hyper content !
 ODILE DERAY
 Aaaaaaaaaaaaah ! Aah.Aaaaaaaaaaaaaah !
 
-ODILE DERAY
+ODILE DERAY (Décroche le téléphone et appelle la police)
 AAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaahhhh !
 
-JOURNALISTE RADIO
+LA FOULE DE JOURNALISTES
+Commissaire ! Commissaire ! Commissaire ! S'il vous plaît !
+
+JOURNALISTES
 Commissaire ! Commissaire ! Commissaire !
 Que s'est-il passé ? Où en est l'enquête ? C'est le deuxième meurtre qui a eu lieu dans ce cinéma ! Pensez vous que le film soit vraiment mauvais ?
 
@@ -706,16 +749,16 @@ COMMISSAIRE BIALÈS
 Ecoutez, laissez la police faire son travail, dès que j'aurai de plus amples informations croyez bien que vous en serez les premiers informés.
 
 JOURNALISTE RADIO
-Commissaire, peut on parler de tueurs en série ? Qu'on a craindre les festivaliers ?
+Commissaire, peut on parler de tueurs en série ? Qu'ont à craindre les festivaliers ?
 
 COMMISSAIRE BIALÈS
 Ecoutez, laissez la police faire son travail, dès que j'aurai de plus amples informations croyez bien que vous en serez les premiers informés.
 
 JOURNALISTE AMÉRICAINE
-Mister ... Cannes have a serial killer now ?
+Mister ! Sorry... It seems Cannes has its own serial killer now ?
 
 COMMISSAIRE BIALÈS
-Hum listen, lets the police do the job, be sure I'll give you answers as soon as possible
+Hum listen, lets the police do the job, be sure I'll give you answers as soon as possible, okay?
 
 JOURNALISTE SUÈDOIS
 Är det en serial killer som filmfestival besökarna bör frukta?
@@ -726,50 +769,62 @@ Lus, låt polisen göra sitt jobb, jag kommer informera så fort jag vet mer.
 JOURNALISTE SUÈDOIS
 Tack.
 
-JOURNALISTE MODE
-Le commissaire Bialès porte un costume laine et soie croisé six boutons avec chemise et cravate aux motifs rappelant ceux de Kander...
+LA FOULE DE JOURNALISTES
+Commissaire ! Commissaire ! Commissaire ! Encore une question !
+
+JOURNALISTE MODE TV
+Le commissaire Bialès porte un costume laine et soie croisé six boutons avec chemise et cravate aux motifs rappelant ceux de Calder...
 
 COMMISSAIRE BIALÈS
 C'est vous qui avez prévenu la presse ? Bravo vous avez fait vite hein !
 
-POLICIER
+GRIMALDI
 Non, ça c'est la personne qui a découvert le corps, une certaine ...Odile Deray.
 
 COMMISSAIRE BIALÈS
 Deray. La victime a été tuée à la saucisse et au marteau.
 
-POLICIER
+GRIMALDI
 Euh, non commissaire, faucille. Enfin c'est ce que pensent les types du labo.
 
 COMMISSAIRE BIALÈS
 On lit saucisse un peu quand même hein ! Bon d'autres indices ?
 
-POLICIER
+GRIMALDI
 Oui ! Le tueur a gravé une deuxième lettre sur le mur, la première était un O ; la deuxième est un D. On ne sait pas ce que ça veut dire, mais les types des chiffres et des lettres sont dessus.
 
 COMMISSAIRE BIALÈS
-O D...D O...do, la note !do ? Sûrement un musicien ?
+O D...D O...do, la note ! do ? Sûrement un musicien ?
 
-POLICIER
+GRIMALDI
 Ah commissaire ! Le type qui a fait ça est un maniaque, j'espère que vous avez le cœur bien accroché parce que c'est une véritable boucherie à l'intérieur.
 
 COMMISSAIRE BIALÈS
 Le crime a eu lieu où ?
 
-POLICIER
+GRIMALDI
 Ici.
 
 ODILE DERAY
 C'était horrible. Elle était là, dans le coin, avec ses, ses, huit grosses pattes velues, et...
 
-POLICIER
+GRIMALDI
 Commissaire, Mlle Odile Deray, qui a découvert le corps. Mlle Deray, vous connaissez le commissaire Bialès ?
 
 ODILE DERAY
 Non ?
 
 DOCUMENTAIRE TV
-Né le 25 juillet 1950 à Oran en Algérie, d'une mère artiste de variété, Alicia Limpérou, et d'un père gendarme, Maurice Bialès, le petit Patrick Humphrey Tiburce Bialès est fils unique. Heureusement que maman Bialès est là pour partager ses jeux d'enfant, car papa Bialès est souvent absent. En 1962, les Bialès quittent l'Algérie et arrivent à Nice. Puis, de Nice, ils prennent le bus et s'installent à Cannes. Patrick a 12 ans. Voulant faire plaisir à la fois à sa mère et à son père, il hésite entre une profession artistique et policière. Mais le destin décidera pour lui, puisqu'en 1968, pendant les évènements, son père meurt, étouffé la tête coincée dans une grille d'arbre. Il embrasse alors la carrière policière et abandonne les études de trapèze. 1971 : il sort 10ème de l'école de police de Nice, avec une moyenne de 11/20, ce qui est bien, mais pas top. – devrait être attentif en cours au lieu de se pavaner - C'est après avoir élucidé le mystère du téléphone jaune, et celui du labyrinthe maudit, qu'il est promu inspecteur. - Mr Bialès ? Combien de lettres ? Euh, 9 lettres, policiers. Puis il gagne à la finale régionale des chiffres et des lettres, et devient ainsi commissaire principal de la ville de Cannes, fonction qu'il occupe aujourd'hui encore.
+Né le 25 juillet 1950 à Oran en Algérie, d'une mère artiste de variétés, Alicia Lampéro, et d'un père gendarme, Maurice Bialès, le petit Patrick Humphrey Tiburce Bialès est fils unique. Heureusement que maman Bialès est là pour partager ses jeux d'enfant, car papa Bialès est souvent absent. En 1962, les Bialès quittent l'Algérie et arrivent à Nice. Puis, de Nice, ils prennent le bus et s'installent à Cannes. Patrick a 12 ans. Voulant faire plaisir à la fois à sa mère et à son père, il hésite entre une profession artistique et policière. Mais le destin décidera pour lui, puisqu'en 1968, pendant les évènements, son père meurt, étouffé la tête coincée dans une grille d'arbre. Il embrasse alors la carrière policière et abandonne les études de trapèze. 1971 : il sort 10ème de l'école de police de Nice, avec une moyenne de 11/20, ce qui est bien, mais pas top. C'est après avoir élucidé le mystère du téléphone jaune, et celui du labyrinthe maudit, qu'il est promu inspecteur.
+
+PATRICE LAFFONT
+Mr Bialès ? Combien de lettres ? 
+
+COMMISSAIRE BIALÈS
+Euh, 9 lettres, "policiers".
+
+DOCUMENTAIRE TV
+Puis il gagne à la finale régionale des chiffres et des lettres, et devient ainsi commissaire principal de la ville de Cannes, fonction qu'il occupe aujourd'hui encore.
 
 ODILE DERAY
 Enchantée commissaire !
@@ -778,19 +833,18 @@ SERGE KARAMAZOV
 Pardon ... Pardon ... Pardon ... (au videur) On connaît, euh, la nana qui a découvert le corps !
 
 VIDEUR
-Ok c'est bon entrez.
-Non, non pas toi. J'ai dis pas de basket.
+Ok c'est bon entrez. Non, non pas toi. J'ai dis pas de basket.
 
 SERGE KARAMAZOV
 Pardon ? ...Pardon, mademoiselle Deray est là ?
 
-POLICIER
+FLIC AU RAPPORT
 Ah non, elle est partie se changer. Et après ils l'ont emmenée au commissariat.
 
 SERGE KARAMAZOV
 Pfffffff, c'est embêtant ça, ça m'arrange pas du tout! Je vous explique, je suis arrivé y'a 4 h à l'aréoport de Nice, on m'a donné ce monsieur à garder, moi.... Moi je le garde, hein, normal, hein, c'est, c'est mon boulot.
 
-POLICIER
+FLIC AU RAPPORT
 Normal, j'comprends.
 
 SERGE KARAMAZOV
@@ -808,7 +862,7 @@ C'est une Kinoton!
 SERGE KARAMAZOV
 Oui c'est une Kinoton oui. Voilà maintenant je me retrouve avec lui sur les bras, qu'est-ce que j'en fais moi.
 
-POLICIER
+FLIC AU RAPPORT
 Bah oui j'sais bien.
 
 SIMON JÉRÉMI
@@ -817,13 +871,13 @@ Non mais c'est dingue, c'est la première fois que j'en vois une en vrai, une Ki
 SERGE KARAMAZOV
 Tiens regarde, tu l'as vue de près ? Non vas voir. Alors après, parce que après elle appelle, elle appelle elle me dit qu'elle a découvert un deuxième meurtre, que ça va un peu la retarder qu'elle est encore au cinéma je veux dire, admettons. Combien de temps ça prend pour découvrir, euh, un corps. Combien. Une heure, une heure et demie ?
 
-POLICIER
+FLIC AU RAPPORT
 Oh maxi, maxi.
 
 SERGE KARAMAZOV
 Ne touche pas, les trucs! Voilà maintenant ça fait plus de deux heures et vous me dites qu'elle est au commissariat, moi je sais plus quoi en faire de lui.
 
-POLICIER
+FLIC AU RAPPORT
 Vous avez pas pensé à l'emmener à l'Aquasplash ?
 
 SERGE KARAMAZOV
@@ -832,27 +886,27 @@ Ah non tiens ! Simon demain on ira à l'Aquasplash.
 SIMON JÉRÉMI
 Beeeeeeeeeuuuuuuuuuuuuh !
 
-POLICIER
+FLIC AU RAPPORT
 Ah bah le voilà le jus d'orange !
 
-Philippe Garcia : Je suis Philippe Garcia et voici les inspecteurs Samps et Bestel.
+PHILIPPE GARCIA
+Je suis Philippe Garcia et voici les inspecteurs Sens et Bestel.
 
 COMMISSAIRE BIALÈS
 Mademoiselle Deray, je dois vous informer que cet entretien sera filmé intégralement.
 
-INSPECTEUR
+SENS
 Hum. Ça va pas être possible, commissaire. Il est pété le truc. C'est Bestel il a mal mis la cassette tout à l'heure ça a tout niqué.
 
 COMMISSAIRE BIALÈS
 Mademoiselle Deray je dois vous informer que cet entretien sera intégralement pas filmé.
 
-ODILE DERAY
-(Mange une saucisse)
+Odile Deray mange une choucroute
 
 GARCIA
 Mademoiselle Deray, il est interdit de manger de la choucroute ici.
 
-(Le panneau indique *choucroute interdite *)
+Le panneau indique *choucroute interdite* 
 
 ODILE DERAY
 Oooh. Et qu'est-ce que vous allez me faire ? Me coffrer pour mangeage de choucroute prohibé ?
@@ -879,7 +933,7 @@ COMMISSAIRE BIALÈS
 C'est bon pour la publicité ça. Votre travail, c'est qu'il y a un max de pub autour de ce film. Je me trompe ?
 
 ODILE DERAY
-Oui. Sur « qu'il y a ». C'est qu'il y ait un max de pub, qu'il faut dire.
+Oui. Sur "qu'il y a". C'est "qu'il y ait un max de pub", qu'il faut dire.
 
 COMMISSAIRE BIALÈS
 Ne jouez pas sur les mots, mademoiselle Deray.
@@ -890,7 +944,7 @@ Commissaire, vous ne me croyez tout de même pas assez stupide pour tuer des gen
 COMMISSAIRE BIALÈS
 Personne n'a dit que vous étiez stupide !
 
-INSPECTEUR
+BESTEL
 Si, moi ! Au début. Mais maintenant non je vous trouve super.
 
 ODILE DERAY
@@ -903,7 +957,7 @@ GARCIA
 Ah ça va pas être possible chef. Y'a Bestel qui a voulu essayer un truc, il a branché le détecteur sur sa CB, ça a fait, euh... pfft !
 
 COMMISSAIRE BIALÈS
-Oui ça va ça va. Bon mademoiselle Deray il ne faudra pas quitter Cannes pendant quelque temps.
+Oui, ça va, ça va. Bon mademoiselle Deray il ne faudra pas quitter Cannes pendant quelque temps.
 
 ODILE DERAY
 Je n'en ai aucunement l'intention. Avec ce qui se passe en ce moment, j'ai du pain sur la planche.
@@ -911,23 +965,21 @@ Je n'en ai aucunement l'intention. Avec ce qui se passe en ce moment, j'ai du pa
 GRIMALDI
 Commissaire ! Je reviens du Cameo regardez ce qu'on a trouvé coincé dans une porte. Un doigt !
 
-–aaaaaaaaah !_
+TOUT LE MONDE
+Aaaaaaaaah !_
 
-POLICIER
+GRIMALDI
 Non je déconne ! Non c'est ça qu'on a trouvé.
 
 COMMISSAIRE BIALÈS
-Du tissu...Qu'est-ce que ça peut bien être...
+Du tissu... Qu'est-ce que ça peut bien être...
 
 DOCUMENTAIRE TISSUS
 L'origine du tissu remonte à la nuit des temps. On estime son apparition aux alentours de longtemps avant Jésus Christ.
 
-
 JOURNALISTE TV SOLEIL
 La fourmi n'est pas prêteuse ...
-Retour en France avec le meurtre de Jacques Lelong député vert. Jean Paul Martoni est inculpé mais le leader du RPN reste introuvable, malgré les nombreuses convocations du parquet, un reportage de Jean Jacques Istadelle... bien petit problème je crois de nos amis de la technique, qu'ils me disent... bon d'accord passons directement au festival du film avec ce soir en compétition officielle, et bien la projection de Octet, ou la démission du forgeron, du réalisateur ouzbek Miroslav Skibeusklivač, à qui on doit également le très très émouvant...pardon...d'accord. Voilà on me signale que le reportage décidément n'est pas tout à fait prêt, alors, et bien je vous propose de rester de rester! J'en bafouille! Dans cette bien belle ville de Cannes avec le deuxième meurtre d'un projectionniste assassiné à la faucille et au marteau alors qu'il projetait un film d'horreur, Red is dead. L'attachée de presse a été entendue par le commissaire Bialès, elle déclare ne rien savoir sur cette affaire, mais engage les gens à aller voir le film, un reportage de G...
-Ah, on me fait signe que non...
-
+Retour en France avec le meurtre de Jacques Lelong député vert. Jean-Paul Martoni est inculpé mais le leader du RPN reste introuvable, malgré les nombreuses convocations du parquet, un reportage de Jean Jacques Istadelle... bien petit problème je crois de nos amis de la technique, qu'ils me disent... bon d'accord passons directement au festival du film avec ce soir en compétition officielle, et bien la projection de "Octet, ou la démission du forgeron", du réalisateur ouzbek Mirjovsky Ibiksklivač, à qui on doit également le très très émouvant...pardon...d'accord. Voilà on me signale que le reportage décidément n'est pas tout à fait prêt, alors, et bien je vous propose de rester de rester! J'en bafouille! Dans cette bien belle ville de Cannes avec le deuxième meurtre d'un projectionniste assassiné à la faucille et au marteau alors qu'il projetait un film d'horreur, Red is dead. L'attachée de presse a été entendue par le commissaire Bialès, elle déclare ne rien savoir sur cette affaire, mais engage les gens à aller voir le film, un reportage de G... Ah, on me fait signe que non...
 
 SERGE KARAMAZOV (en voix off)
 Cannes, troisième jour
@@ -944,11 +996,17 @@ Ouah déjà ?
 SERGE KARAMAZOV (en voix off)
 Non mais j'avance un peu.
 
+TELEVISION
+Hier soir, projection officielle du "Cri du Non-Espoir"
+
 ODILE DERAY
 Coucou ! Bonjour ! Alors elle vous plait votre nouvelle chambre ?
 
 SERGE KARAMAZOV
-Très bien très content attention ne vous asseyez pas là il a encore vomi.
+Très bien très content attention! Ne vous asseyez pas là il a encore vomi.
+
+TELEVISION
+- le célèbre pétomane espagnol Mizou Mizou qui a illuminé les marches de sa présence. Mizou Mizou, avait interprété, la veille au soir, l'intégral de l'opéra Carmen...
 
 ODILE DERAY
 Bon Simon tout baigne hein. Y'a une grosse grosse grosse pression sur le film. Les américains veulent faire un remake, moi je suis en pourparler avec l'Allemagne... Tout va bien. Bon Kara ! Dépêchez-vous, la conférence de presse est à 11 heures. Bah oui ! ...J'y vais.
@@ -977,7 +1035,7 @@ SIMON JÉRÉMI
 Hein?
 
 ODILE DERAY
-Va falloir me le vendre ce film hein. Trouver des mimiques des phrases choc !
+Va falloir me le vendre ce film hein. Trouver des gimmicks des phrases choc !
 
 SIMON JÉRÉMI
 Quel genre ?
@@ -995,7 +1053,7 @@ SIMON JÉRÉMI
 Ah !
 
 ODILE DERAY
-Bon Kara faut vraiment que vous fassiez garde du corps non c'est important hein. Je veux vraiment leur en mettre plein la vue. Putain... j'y crois j'y crois.
+Bon Kara faut vraiment que vous fassiez garde du corps non c'est important hein. Je veux vraiment leur en mettre plein la vue. Putain... j'y crois, j'y crois.
 
 SERGE KARAMAZOV
 Oh pardon. Est-ce que vous pouvez éviter de me fumer dans la figure? Parce que j'essaye d'arrêter.
@@ -1015,55 +1073,60 @@ Et les notes aussi ! Mmm. parce que...
 ODILE DERAY
 Ça y est Simon? Vous êtes beau vous êtes prêt ?.... Ouais d'accord....Ouais là je crois que je vais prendre les choses en main là...
 
-JOUNRALISTE PIPELETTE 1
+(Ils partent faire du shopping pour Simon, sur la musique de Pretty Woman)
+
+JOURNALISTE PIPELETTE 1
 Tu connais Christine ? La grande du service beauté ?
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Celle qui a des boutons ?
 
-JOUNRALISTE PIPELETTE 1
+JOURNALISTE PIPELETTE 1
 Ouais! La moche. Et ben figure-toi qu'elle s'est enfin trouvé un mec!
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Ah non !
 
-JOUNRALISTE PIPELETTE 1
-J'te jure, alors elle l'amène chez elle, lui il attend dans le canapé, et elle elle revient 5 mn après à poil en lui disant « qu'est-ce que tu veux kjte fasses ? »
+JOURNALISTE PIPELETTE 1
+J'te jure, alors elle l'amène chez elle, lui il attend dans le canapé, et elle elle revient 5 minutes après, à poil, en lui disant « qu'est-ce que tu veux kjte fasses ? »
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Attends mais c'est pas... et qu'est-ce qu'il a fait lui ?
 
-JOUNRALISTE PIPELETTE 1
+JOURNALISTE PIPELETTE 1
 Oh, ben il s'est tiré en courant ! Alors je lui dis la prochaine fois Christine sois gentille mets un peu de romantisme !
 
-JOUNRALISTE PIPELETTE 2
-A ha c'est bon !!
+JOURNALISTE PIPELETTE 2
+A ha c'est bon !
 
-JOUNRALISTE PIPELETTE 1
+SERGE KARAMAZOV
+Allez-y c'est bon, c'est commencé.
+
+JOURNALISTE PIPELETTE 1
 Résultat, la fois d'après, pour aller dans la salle de bains, et ben elle a pas voulu y aller à poil ! Donc elle s'est enveloppée de sa couette !
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Et le mec il est resté là dans le lit à se geler les couilles ?
 
-JOUNRALISTE PIPELETTE 1
+JOURNALISTE PIPELETTE 1
 Ouais ! Et elle, enveloppée dans sa couette, et ben elle est restée coincée dans la porte ! Donc pour se dégager, elle lâche la couette par terre ! Et l'autre il lui dit, oh tu sais, tu sais si tu as de la cellulite c'est pas grave, je t'aime comme tu es !
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Oh c'est pas vrai !!
 
 JOUNRALISTE PIPELETTE 1
 Ah je te jure !
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 ahahahahahahahahhaha !
 
-JOUNRALISTE PIPELETTE 1
+JOURNALISTE PIPELETTE 1
 Attends mais elle a jamais eu de mecs !
 
-JOUNRALISTE PIPELETTE 2
+JOURNALISTE PIPELETTE 2
 Ah ouais ?
 
-JOUNRALISTE PIPELETTE 1
+JOURNALISTE PIPELETTE 1
 Attends avec les boutons qu'elle a sur la gueule !
 
 ODILE DERAY
@@ -1084,9 +1147,8 @@ Si si...
 ODILE DERAY
 Si alors je reprends pour les deux du fond. Donc à l'issue de la projection vous allez pouvoir poser vos questions à monsieur Simon Jérémi, la vedette masculine du film Red is dead, ici présent. Bon j'ai également rajouté aussi la liste des victimes du tueur, le vrai, pas celui du film, celui du festival, ahah ! dont les veuves sont ici à votre disposition. Mesdames messieurs merci de votre attention, bonne projection à tous.
 
-
 PROJECTIONNISTE 3
-Meuh pas du tout. Bohoh ! Mais pas du tout ! Chérie je te dis que je risque rien ! La preuve, j'ai une prime de risque !... Ecoute jvé...je me mets déjà en quatre pour te faire plaisir tu vas pas en... Attends ne quitte pas une seconde.
+Meuh pas du tout. Bohoh ! Mais pas du tout ! Chérie je te dis que je risque rien ! La preuve, j'ai une prime de risque !... Écoute jvé...je me mets déjà en quatre pour te faire plaisir tu vas pas en... Attends ne quitte pas une seconde.
 Monsieur, monsieur si vous devez sortir allez y, si vous avez un petit besoin à faire, ou quelque chose comme ça...
 
 SERGE KARAMAZOV
@@ -1144,7 +1206,12 @@ SERGE KARAMAZOV
 Oui.
 
 PROJECTIONNISTE 3
-Ah il est revenu lui... Ah, ça va couper chérie. .... Ça va, y'a pas de bobo ? Mais vous auriez pu vous blesser avec ce truc. Attendez je vais vous aider, pourquoi vous me demandez pas ?
+Ah il est revenu lui... Ah, ça va couper chérie.
+
+Le meurtrier plante sa faucille dans un tuyau.
+
+PROJECTIONNISTE 3
+Ça va, y'a pas de bobo ? Mais vous auriez pu vous blesser avec ce truc. Attendez je vais vous aider, pourquoi vous me demandez pas ?
 
 SERGE KARAMAZOV
 Alors, qu'est-ce que tu deviens ?
@@ -1155,22 +1222,37 @@ Bah je suis séropositive !
 MARTINE
 Mais non c'était pour déconner !
 
+Une course poursuite commence à pieds dans Cannes et la croisette.
+
+SERGE KARAMAZOV
+Putain j'ai pas besoin de ça.
+
 SERGE KARAMAZOV
 Poussez-vous ! Poussez-vous ! ... Ah je vais me chier dessus !
 
+VOIX OFF
 Pendant ce temps, à Vera Cruz....
-(Algo màs señora ? Es todo gracie, Cuanto te devo ? – Tres y cinco)
+
+LOPEZ
+Algo màs señora ? 
+
+MME CUCHACA
+Es todo gracie, Cuanto te devo ?
+
+LOPEZ
+Trece y noventa y cinco
 
 SERGE KARAMAZOV
 Barrez vous, cons de mimes !.... Aïeuuuh !
 
-PASSANT
+PASSANT CROISETTE
 Ça va ? Vous allez bien ? Vous n'avez besoin de rien ?
 
 SERGE KARAMAZOV
 Non non c'est bon ! J'ai du papier !
 
-(Cannes, quatrième jour.)
+VOIX OFF
+Cannes, quatrième jour.
 
 ODILE DERAY
 Vous me faxez ça tout de suite !
@@ -1182,12 +1264,12 @@ ODILE DERAY
 J'attends toujours la liste des invités pour demain hein !
 
 SERGE KARAMAZOV
-Bon. C'est 300 000 de plus hein, mais c'est du haut de gamme!
+Bon. C'est 300 000 de plus hein, mais c'est du haut de gamme !
 
-VENDEUR JOURNAUX
+MÔME JOURNAUX
 Demandez Cannes midi ! Le tueur de Cannes frappe encore, Red is dead l'évènement du festival. Achetez ! 5 cents monsieur. Merci.
 
-EMILE
+ÉMILE (en voix off)
 Martoni toujours en examen. La police est en train d'entendre un témoin oculaire sourd.
 
 ASSISTANT ODILE 1
@@ -1203,10 +1285,10 @@ ODILE DERAY
 Oh, c'est vrai... 3 sont morts déjà !.....Lisez là moi ?
 
 ASSISTANT ODILE 1
-Alors Rech. Proj. Pr. Proj. Priv. Self. Dem. Brt. poss. S'adr. à. l'hôt. Mar.
+Alors Rech. proj. pr. proj. priv. self-dem. Brt. poss. S'adr. à. l'hôt. Mart.
 
 ODILE DERAY
-S'adr. à. l'hôt. Mar. et plus si affinités ! C'est plus humain !
+"S'adr. à. l'hôt. Mart. et plus si affinités", c'est plus humain.
 
 ASSISTANTS
 Absolument !
@@ -1233,7 +1315,7 @@ PRESENTATEUR 13H
 A cannes, la mort n'engendre pas la mélancolie. N'est-ce pas Jocelyne.
 
 JOCELYNE APIFIOU
-Oui Jean Claude. Hier effectivement la projection en compétition officielle de Volapluvostek, le film du Roumain Mevatlavé Kraspeck, s'est vu voler la vedette par la soirée Red is dead. Trois jours et trois morts ont suffit à faire de ce petit film la coqueluche du tout Cannes. Un véritable conte de fées pour Red is dead, puisque les acheteurs du monde entier se l'arrachent sans même l'avoir vu. Pour fêter l'évènement, la production du film avait organisé hier soir une grande murder party dans les jardins de la villa Belair. Des stars du monde entier y côtoyaient les chroniqueurs judiciaires. Gâteau, champagne, feux d'artifices, rien n'avait été oublié, pas même la faucille et le marteau, liet motiv de la soirée. Celle par qui le scandale, ou en tout cas la gloire est arrivé, était au comble du bonheur, même si elle émettait quelques réserves
+Oui Jean Claude. Hier effectivement la projection en compétition officielle de Volapuk Zoltek, le film du Roumain Mevatlavé Kraspeck, s'est vu voler la vedette par la soirée Red is dead. Trois jours et trois morts ont suffit pour faire de ce petit film la coqueluche du tout Cannes. Un véritable conte de fées pour Red is dead, puisque les acheteurs du monde entier se l'arrachent sans même l'avoir vu. Pour fêter l'évènement, la production du film avait organisé hier soir une grande "murder party" dans les jardins de la villa Belair. Des stars du monde entier y côtoyaient les chroniqueurs judiciaires. Gâteau, champagne, feux d'artifices, rien n'avait été oublié, pas même la faucille et le marteau, leitmotiv de la soirée. Celle par qui le scandale, ou en tout cas la gloire est arrivé, était au comble du bonheur, même si elle émettait quelques réserves.
 
 ODILE DERAY
 Je trouve qu'on fait beaucoup trop de battage sur ce qui se passe autour de Red is dead et qu'on ne parle pas suffisamment du film lui même. C'est vrai que c'est formidable quand même ce qui nous arrive oui.
@@ -1269,25 +1351,25 @@ ODILE DERAY
 Oui ?
 
 RONI ABITBOL
-Hi, I'm Roni Abitbol. How are you ?
+Hi, I'm Roni Abitbol. How are you babe ?
 
 ODILE DERAY
 Aille !
 
 RONI ABITBOL
-I am the producer of « 400 balls » and of «Tchernobyl Lassie» Did you see it? I'm really impressed by the job you did on Red is dead. It is great. I've got a new project for you if you are interested....
+I am the producer of "The 400 balls and Tchernobyl Lassie" Did you see it? Well, I tell ya, I'm really impressed by the job you did on Red is dead. It is great. I've got a new project for you if you are interested....
 
 ODILE DERAY
 Aille want to Popaul!
 
 RONI ABITBOL
-It's called “Snow White and mercenaries seven”. First, they meet, then they meet and they fight, and then at the end they fuck. It's unbelievable !
+Okay, It's called "Snow White and mercenaries seven". First, they meet, then they meet and they fight, and then at the end they fuck. It's unbelievable !
 
 ODILE DERAY
 A beulibobol !
 
 RONI ABITBOL
-I really like you do it... Think about it...
+I'd really like you do it, okay?... Think about it...
 
 ODILE DERAY
 Thank a boute it... I have in ze bilouque!
@@ -1314,7 +1396,7 @@ ODILE DERAY
 Excusez-moi, Patrick ! Mais j'ai eu un petit peu de mal à briefer le nouveau projectionniste pour la projo de demain. A mon avis il y passera la nuit.
 
 COMMISSAIRE BIALÈS
-Merci, apportez nous aussi quelques clapiottes.....Pour picorer !
+Merci, apportez nous aussi quelques clapiottes. Pour picorer !
 
 ODILE DERAY
 Alors tchin !
@@ -1329,10 +1411,10 @@ COMMISSAIRE BIALÈS
 Mais oublions le film pour ce soir. Parlez-moi de vous plutôt.
 
 ODILE DERAY
-Odile ! Moi c'est Odile ! Plutot c'est l'ami de Mickey !
+Odile ! Moi c'est Odile ! Pluto c'est l'ami de Mickey !
 
 COMMISSAIRE BIALÈS
-Ah non ! Plutot c'est le chien de Mickey ! L'ami de Mickey c'est Dingo !
+Ah non ! Pluto c'est le chien de Mickey ! L'ami de Mickey c'est Dingo !
 
 ODILE DERAY
 Oh ohohohohoh! Oh pardonnez moi je ne sais plus ce que je dis! C'est-ce film toute cette pression !
@@ -1341,7 +1423,7 @@ COMMISSAIRE BIALÈS
 Bien oubliez tout ça et parlez moi de vous, hum ? D'où venez-vous ?
 
 ODILE DERAY
-De Dijon. C'est là que j'ai commencé mon métier d'attaché de presse. Je m'occupais du festival Moutarde et Cinéma.
+De Dijon. C'est là où j'ai commencé mon métier d'attaché de presse. Je m'occupais du festival Moutarde et Cinéma.
 
 COMMISSAIRE BIALÈS
 Ah ! C'est passionnant ça. Et ça parlait de quoi ?
@@ -1368,19 +1450,19 @@ ODILE DERAY
 Alors j'ai dormi dans la chambre du bas parce que j'avais prêté mon pull.
 
 COMMISSAIRE BIALÈS
-Ah vous êtes merveilleuse Odile ! Merveilleuse...Vous êtes marié ?
+Ah vous êtes merveilleuse Odile ! Merveilleuse...Vous êtes mariée ?
 
-SERVEUR 1
+MAITRE D'HOTEL
 Vos clapiottes arrivent.
 
-SERVEUR 2
+SERVEUR "BICOULI DRESSÉ"
 Attention l'assiette est chaude !
 
 LES CLAPIOTTES
 Non ! Non non ne nous mange pas ne nous mange pas non non non ne nous mange pas ne nous mange pas ne nous mange pas !
 
 ODILE DERAY
-J'étais mariée. On s'est séparé il y a 4 ans. Il avait une grosse affaire de triperie, vous connaissez peut être, « les tripes du Mans ça dure longtemps » !
+J'étais mariée. On s'est séparé il y a 4 ans. Il avait une grosse affaire de triperie, vous connaissez peut être, "les tripes du Mans ça dure longtemps" !
 
 COMMISSAIRE BIALÈS
 Non !
@@ -1413,7 +1495,7 @@ ODILE DERAY
 Ooh! oh, il est comment le cresson ?
 
 COMMISSAIRE BIALÈS
-Il est tendre. Et co co coriace à la fois.
+Il est tendre. Et co... coriace à la fois.
 
 ODILE DERAY
 Oh... mais quand vous dites ligoté, il est ligoté ligoté il peut pas s'échapper ?
@@ -1437,13 +1519,22 @@ SIMON JÉRÉMI
 Tu veux que je te ramène ?
 
 SERGE KARAMAZOV
-T'sais où elle est ? Elle est avec Rick Hunter ! Qu'est-ce qu'il y connaît.... Euh qu'est-ce qu'il y connaît aux femmes, Rick Hunter ?
+T'sais où elle est ? Elle est avec Rick Hunter ! Qu'est-ce qu'il y connaît... Bon alors, question: Euh qu'est-ce qu'il y connaît aux femmes, Rick Hunter ?
 
 SIMON JÉRÉMI
 Je sais pas !
 
 SERGE KARAMAZOV
-Réponse : rien ! Il y connaît rien ! Moi je sais moi. Toutes celles que j'ai escortées, je les ai baisées. D'accord ? Irina de France Berger : ze l'ai baisée, Jocelyn Turner : je l'ai baisée, le prince Patrice de Moldavie, je l'ai baisé, j'étais bourré. N'empêche que je l'ai quand même baisé. Et ! Odile Deray, Madame Odile Deray. Pas le droit de la baiser! Parce que style ... Odile Deray, pas le droit de la baiser ! A toute.
+Réponse : rien ! Il y connaît rien ! 
+
+GARÇON ELECTROCUTÉ
+Monsieur ! Monsieur ! C'est pas votre bouteille ! Allons Monsieur !
+
+SERGE KARAMAZOV
+Moi je sais moi. Toutes celles que j'ai escortées, je les ai baisées. D'accord ? Irina de France Berger : ze l'ai baisée. Jocelyn Turner : je l'ai baisée. Le prince Patrice de Moldavie, je l'ai baisé, j'étais bourré. N'empêche que je l'ai quand même baisé. Et ! Odile Deray, Madame Odile Deray. Pas le droit de la baiser!
+
+SERGE KARAMAZOV (urine sur la table)
+Parce que style ... Odile Deray, pas le droit de la baiser ! A toute.
 
 SERGE KARAMAZOV
 Euh... qu'est-ce que je disais ?
@@ -1469,6 +1560,8 @@ Oh juste un doigt !
 COMMISSAIRE BIALÈS
 Vous voulez pas un whisky d'abord ?
 
+Ils s'embrassent.
+
 ODILE DERAY
 Tu as une brosse ?
 
@@ -1482,7 +1575,7 @@ COMMISSAIRE BIALÈS
 Oui dans le tiroir près du téléphone.
 
 ODILE DERAY
-Rech. Proj. Pr. Proj. Priv. Self. Dem. Brt. poss. S'adr. à. l'hôt. Mar. et plus si affinités.
+Rech. proj. pr. proj. priv. self-dem.brt. poss. S'adr. à. l'hôt. Mart. Et plus si affinités.
 
 COMMISSAIRE BIALÈS
 Odile ! Tu connais la différence entre un pull over et une moule? Pffrr !
@@ -1511,6 +1604,9 @@ Casser la gueule à cette salope !
 ODILE DERAY
 Mon dieu Simon, si vous saviez ce que je viens de découvrir ! Kara, il faut absolument que vousooohh !
 
+Kara lui met un gros poing dans la gueule.
+
+VOIX OFF MULTIPLES DE BRUITAGE BUCCAL
 Pour des raisons de budget, la scène suivante sera entièrement bruitée à la bouche.
 Ta ta a hum !
 Vvvvvvvvvvvvvvvrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
@@ -1519,11 +1615,86 @@ Ihhhhhhhhhhihhhht ntalatantalttantala tantilli
 Plic ploc, plic, ploc, plic ploc !
 Hmhmhm !
 Mieow ! Aha !
-Miieeoow !! - Putain tu fais super bien le chat ! - Merci ! - Non mais vraiment, je le pense, vraiment ! - Merci, du fond du cœur. - Eh c'est pour qui les cafés ? - Chuuuuteuh ! On travaille on est en train d'enregistrer là. - Eh oh là, je suis pas ta bonne hein ! - Bah ta gueule. - Ehhh, la tienne avant la mienne ! - Eh ta gueule toi même ! - Ça va trancher chérie ! - Mais non mais qu'est-ce tu fais il faut dire ça va couper chéri, pas ça va trancher ! - Ah bon ? Mais oui t'étais où pendant le film toi. - Ah mais non c'est parce que je fais ça à mi temps moi. Je suis pas à full time job, donc c'est pour ça que je suis un peu... enfin bon - Ouais mais bon quand même tu devrais un peu t'intéresser. - Non mais j'essaye de m'intéresser, mais ça m'intéresse pa ehh regardez regardez! Le tueur il s'est blessé au doigt ! - Ouaah ! - Il s'est blessé au doigt il s'est blessé au doigt le tueur ! - Oh la la mais dis donc il a l'air salement blessé ! - Mais ouaaais ! Au doigt.
+Miieeoow !!
+
+VOIX DE BRUITAGE 1 (en off)
+Putain tu fais super bien le chat !
+
+VOIX DE BRUITAGE 2 (en off)
+Merci !
+
+VOIX DE BRUITAGE 1 (en off)
+Non mais vraiment, je le pense, vraiment !
+
+VOIX DE BRUITAGE 2 (en off)
+Merci, du fond du cœur.
+
+ASSOCIEE DE BRUITAGE (en off)
+Eh c'est pour qui les cafés ?
+
+VOIX DE BRUITAGE 1 (en off)
+Chuuuuteuh !
+
+VOIX DE BRUITAGE 2 (en off) ^
+Chuuuuteuh !
+
+VOIX DE BRUITAGE 1 (en off)
+On travaille on est en train d'enregistrer là.
+
+ASSOCIEE DE BRUITAGE (en off)
+Eh oh là, je suis pas ta bonne hein !
+
+VOIX DE BRUITAGE 1 (en off)
+Bah ta gueule.
+
+ASSOCIEE DE BRUITAGE (en off)
+Ehhh, la tienne avant la mienne !
+
+VOIX DE BRUITAGE 1 (en off)
+Eh ta gueule toi même !
+
+VOIX DE BRUITAGE 2 (en off)
+Ça va trancher chérie !
+
+VOIX DE BRUITAGE 1 (en off)
+Mais non mais qu'est-ce tu fais il faut dire "ça va couper chéri", pas "ça va trancher" !
+
+VOIX DE BRUITAGE 2 (en off)
+Ah bon ?
+
+VOIX DE BRUITAGE 1 (en off)
+Mais oui t'étais où pendant le film toi.
+
+VOIX DE BRUITAGE 2 (en off)
+Ah mais non c'est parce que je fais ça à mi temps moi. Je suis pas à full time job, donc c'est pour ça que je suis un peu... enfin bon
+
+VOIX DE BRUITAGE 1 (en off)
+Ouais mais bon quand même tu devrais un peu t'intéresser.
+
+VOIX DE BRUITAGE 2 (en off)
+Non mais j'essaye de m'intéresser, mais ça m'intéresse...
+
+VOIX DE BRUITAGE 1 (en off)
+ehh regardez regardez! Le tueur il s'est blessé au doigt !
+
+VOIX DE BRUITAGE 2 (en off)
+Ouaah !
+
+VOIX DE BRUITAGE 1 (en off)
+Il s'est blessé au doigt il s'est blessé au doigt le tueur !
+
+VOIX DE BRUITAGE 2 (en off)
+Oh la la mais dis donc il a l'air salement blessé !
+
+VOIX DE BRUITAGE 1 (en off)
+Mais ouaaais ! Au doigt.
 
 Les producteurs sont heureux de vous annoncer que le bruitage du film peut continuer normalement. Merci de votre compréhension.
 
+VOIX OFF
 Cannes, dernier jour 9h du matin
+
+ÉMILE (en off)
 À qui le tour ? Qui sera la prochaine victime ? Qui osera ...
 
 ODILE DERAY
@@ -1542,12 +1713,12 @@ ODILE DERAY
 D'où vous sortez vous ?
 
 SERGE KARAMAZOV
-Hein ? Euh, c'est parce que j'étais en train de régler le...
+Hein ? Euh, c'est parce que j'étais en train de ... de régler le...
 
 ODILE DERAY
 Oui ben pendant que vous régliez le, moi j'ai trouvé le projectionniste pour ce soir. Tenez. Ça c'est la ligne directe du Palais des festivals là dessus on pourra vous joindre n'importe quand.
 
-SERVEUR
+GARÇON RESTAURANT "LE MARTINEZ"
 La tête de veau !
 
 SIMON JÉRÉMI
@@ -1557,7 +1728,7 @@ SERGE KARAMAZOV
 Et il est où, le projectionniste ?
 
 ODILE DERAY
-Il va nous rejoindre il est parti acheter le journal.
+Il va nous rejoindre il est parti acheter un journal.
 
 SIMON JÉRÉMI
 Tu veux mes yeux, parce que moi je les mange pas.
@@ -1581,7 +1752,7 @@ ODILE DERAY
 Fermez là Kara vous n'êtes pas le centre du monde ! Je vous parle de Patrick ! Je vous parle du commissaire Bialès !
 
 SERGE KARAMAZOV
-C'est quand même étrange ces lettres que laisse le tueur. O, d, i, maintenant L ! Qu'est-ce que ça peut bien vouloir dire ? Lido ? Ça doit être une danseuse ?
+C'est quand même étrange ces lettres que laisse le tueur. O, d, i, maintenant L ! Qu'est-ce que ça peut bien vouloir dire ? "Lido" ? Ça doit être une danseuse ?
 
 SIMON JÉRÉMI
 Tu me passes les tripes ?
@@ -1593,19 +1764,19 @@ SIMON JÉRÉMI
 Tu me passes le sucre ?
 
 SERGE KARAMAZOV
-Je suis quouasiment sûr que nous avons affaire à un serial killer.
+Je suis quouasiment sûr que nous avons affaire à un *serial killer*.
 
 ODILE DERAY
 Pardon ?
 
 SERGE KARAMAZOV
-Je crois que nous avons affaire à un serial killer.
+Je crois que nous avons affaire à un *serial killer*.
 
 ODILE DERAY
 Un quoi ?
 
 SERGE KARAMAZOV
-Un serial killer.
+Un *serial killer*.
 
 ODILE DERAY
 Un ?
@@ -1614,9 +1785,9 @@ SERGE KARAMAZOV
 Un sérial killeur, un tueur en série.
 
 ODILE DERAY
-Ah ! Serial killer.
+Ah ! *Serial killer*.
 
-SERVEUR
+GARÇON RESTAURANT "LE MARTINEZ"
 Monsieur Jérémi, nous n'avons plus de cervelle. Alors je peux vous mettre du cœur si vous voulez.
 
 SIMON JÉRÉMI
@@ -1647,7 +1818,7 @@ SERGE KARAMAZOV
 J'avais d'abord pensé à une énorme tapette à souris géante, avec un très gros bout de fromage pour l'appâter. Le tueur voit le...
 
 ODILE DERAY
-Taisez vous Kara le voilà ! Alors Emile je vous présente. Alors Emile Gravier qui est notre projectionniste, voici Simon Jérémi la vedette de Red is dead.
+Taisez vous Kara le voilà ! Alors Émile je vous présente. Alors Émile Gravier qui est notre projectionniste, voici Simon Jérémi la vedette de Red is dead.
 
 SIMON JÉRÉMI
 Bonjour !
@@ -1659,15 +1830,15 @@ SERGE KARAMAZOV
 Bonjour !
 
 ODILE DERAY
-Vous n'avez pas changé Emile hein ! On ne s'était pas vu depuis quand ?
+Vous n'avez pas changé Émile hein ! On ne s'était pas vu depuis quand ?
 
-EMILE
+ÉMILE
 16 ans, 8 mois, 21 jours, et 4 heures ....37. C'était un lundi !
 
 SIMON JÉRÉMI
 Ah bah dites donc ça date pas d'hier hein !
 
-EMILE
+ÉMILE
 J'étais projectionniste à Moutarde et cinéma !
 
 SIMON JÉRÉMI
@@ -1676,51 +1847,52 @@ Aaaaaah !
 SERGE KARAMAZOV ^
 Aaaaaah !
 
-EMILE
+ÉMILE
 A Dijon!
 
 SIMON JÉRÉMI
 Ooooooh!
 
-SERGE KARAMAZOV
+SERGE KARAMAZOV ^
 Ooooooh!
 
-EMILE
+ÉMILE
 Et c'est là que j'ai rencontré Odile. On faisait une sacrée équipe. Y'avait qui, y'avait euh. Y'avait Henri ! Henri. Et euh le grand là !
 
 ODILE DERAY
 André !
 
-EMILE
+ÉMILE
 Non, le grand !
 
 ODILE DERAY
 André !
 
-EMILE
+ÉMILE
 Non, le grand, là ! La petite. Sylvie ! Pardon. Qu'est-ce qu'on riait Odile. Hein !!
 
 ODILE DERAY
 ...Oui !
 
-EMILE
-Et la mère de Sylvie elle était boulangère et elle avait une boulangerie à l'angle de la rue Louise Michèle et de la rue Guignon... C'était la rue Louise Michèle ou la rue Pasteur ?
+ÉMILE
+Et la mère de Sylvie elle était boulangère et elle avait une boulangerie à l'angle de la rue Louise Michel et de la rue Milo... C'était la rue Louise Michel ou la rue Pasteur ?
 
 ODILE DERAY
 Pfft !
 
-EMILE
+ÉMILE
 Bref ! Enfin on arrivait tous, là, et y avait son père, à Sylvie, il s'appelait Paul, et y'avait le grand André, non Henri, non André, non, Odile?
 
 ODILE DERAY
 Oui !!
 
-EMILE
-C'était un sacré celui-là ! Alors il entrait, le type, et il disait : « une baguette pas trop cuite !» Parce que c'était une boucherie !.... J'raconte mal.
+ÉMILE
+C'était un sacré celui-là ! Alors il entrait, le type, et il disait : "une baguette pas trop cuite !" Parce que c'était une boucherie !.... J'raconte mal.
 
 ODILE DERAY
-Bien ! Emile, il va falloir y aller, parce que si vous voulez être prêt ce soir, il faudrait peut être vous familiariser avec la machine hein ! Kara, vous êtes gentil vous accompagnez Emile au Palais ? Bien mille fois merci Emile ! Vous me tirez une fière chandelle du pied.
+Bien ! Émile, il va falloir y aller, parce que si vous voulez être prêt ce soir, il faudrait peut être vous familiariser avec la machine hein ! Kara, vous êtes gentil vous accompagnez Émile au Palais ? Bien mille fois merci Émile ! Vous me tirez une fière chandelle du pied.
 
+VOIX OFF
 21h00. Cannes, le même jour
 
 CAROLE
@@ -1757,17 +1929,16 @@ CAROLE
 Ah, c'est ça, je savais que je l'avais vu à la télé, je me disais que son visage ne m'était pas inconnu.
 
 JEAN
-Alors qu'arrive juste Mme Jacques, la veuve du premier projectionniste.
+Alors qu'arrive juste Madame Jacques, la veuve du premier projectionniste.
 
 CAROLE
-Oui, elle est radieuse dans son très beau manteau d'hermine... un grand moment d'émotion Jean...
+Oui, elle est radieuse dans son très beau manteau d'hermine... un grand moment d'émotion Jean.
 
 JEAN
-Tout à fait Carole tout à fait...Et puis sans tout ces meurtres il n'y aurait pas de soirée, alors rendons hommage à l'une de celle qui a engendré cette féerie !
-
+Tout à fait Carole tout à fait...Et puis sans tout ces meurtres il n'y aurait pas de soirée, alors rendons hommage à l'une de celles qui a engendré cette féerie !
 
 SERGE KARAMAZOV
-Bon Emile ! Vous n'avez aucune chance de vous faire tuer sur les marches, à part l'œuvre d'un tireur isolé, mais là ce serait vraiment pas de bol. Je ne veux personne dans les allées je veux voir les badges de tout le monde je serai intraitable là dessus.
+Bon Émile ! Vous n'avez aucune chance de vous faire tuer sur les marches, à part l'œuvre d'un tireur isolé, mais là ce serait vraiment pas de bol. Je ne veux personne dans les allées je veux voir les badges de tout le monde je serai intraitable là dessus.
 
 SERGE KARAMAZOV
 Oula y'a comme un attroupement là bas on dirait.
@@ -1775,71 +1946,76 @@ Oula y'a comme un attroupement là bas on dirait.
 ODILE DERAY
 C'est la montée des marches Kara. Cannes, le festival, ça vous dit quelque chose ?
 
-EMILE
+ÉMILE
 Oh bah y'a du monde hein ! Pfiou !
 
 ODILE DERAY
 Prenez un chewing gum ?
 
-EMILE
+ÉMILE
 Oh non non merci non.
 
 ODILE DERAY
-Oh si si prenez un chewing gum Emile ! Prenez un chewing gum Emile ! Prenez un chewing gum Emile !
+Oh si si prenez un chewing gum Émile ! Prenez un chewing gum Émile ! Prenez un chewing gum Émile !
+
+Fondu flashback.
 
 ODILE DERAY
-S'il vous plait ! Si vous vous êtes endormi, si vous voulez revoir le film, il y a d'autres projections prévus.
+S'il vous plait ! Si vous vous êtes endormi, si vous voulez revoir le film, il y a d'autres projections prévues.
 
-EMILE
+ÉMILE
 Oh la la la la ! Ooooh !
 
 ODILE DERAY
-Prenez un chewing gum Emile !
+Prenez un chewing gum Émile !
 
-EMILE
+ÉMILE
 Oh non non.
 
 ODILE DERAY
-Si si prenez un chewing gum Emile !
+Si si prenez un chewing gum Émile !
 
-EMILE
-Merci
-
-ODILE DERAY
-Dis donc vous vous êtes mis sur votre 31 ce soir Emile !
-
-EMILE
-Bah oui c'est c'est pour ce soir, c'est pour notre dîner. Vous m'aviez dit qu'on mangerai ensemble, hein, alors comme c'est bientôt la fin du festival, j'ai je je...
+ÉMILE
+Oh, non... non... Merci
 
 ODILE DERAY
-Alors là j'ai complètement oublié. Non ce soir je peux pas parce que j'ai une surpote avec mon flirt. Vous m'en voulez pas ?
+Dis donc vous vous êtes mis sur votre 31 ce soir Émile !
 
-EMILE
+ÉMILE
+Bah oui c'est c'est pour ce soir, c'est pour notre dîner. Vous m'aviez dit qu'on mangerai ensemble, hein, alors comme c'est bientôt la fin du festival, j'ai je ...
+
+ODILE DERAY
+Alors là j'ai complètement oublié. Non ce soir je peux pas parce que j'ai une surpatte avec mon flirt. Vous m'en voulez pas ?
+
+ÉMILE
 Oh non Odile, c'est la septième fois que vous oubliez !
 
 ODILE DERAY
-Mais je suis désolée Emile... C'est ce festival, toute cette pression, cette...
+Mais je suis désolée Émile... C'est ce festival, toute cette pression, cette...
 
-EMILE
-Ooooh... Je suis déçu ! Vous m'aviez promis ! Je je vais vous dire quelque chose Odile, on ne peut pas tromper une personne mille fois. Si ssssi on on peut tromper mille personnes une fff euh mille fois non ! On peut tromper une fois mille personnes Odile, mais on ne peut pas tromper une fois mille personnes ! Odile ! On ne peut pas tromper mille fois...
+ÉMILE
+Ooooh... Je suis déçu ! Vous m'aviez promis ! Je vais vous dire quelque chose Odile, on ne peut pas tromper une personne mille fois. Si... si on on peut tromper mille personnes une fff euh mille fois.. non ! On peut tromper une fois mille personnes Odile, mais on ne peut pas tromper une fois mille personnes ! Odile ! On ne peut pas tromper mille fois...
 
 ODILE DERAY
-Ok ! Au revoir Emile !
+Ok ! Au revoir Émile !
 
-EMILE
+ÉMILE
 Mille personnes...
 
 SYLVIE
-Salut Emile !
+Salut Émile !
 
-EMILE
+ÉMILE
 Salut Sylvie.
 
 ODILE DERAY
-Allez à demain ! Et quoi qu'y se passe dans ma vie vous serez toujours auprès de moi Emile. Dans ma vie vous serez toujours auprès de moi Emile, toujours auprès de moi Emile ...
+Allez à demain ! Et quoi qu'y se passe dans ma vie vous serez toujours auprès de moi Émile. 
+
+ODILE (en off, retour au présent)
+Dans ma vie vous serez toujours auprès de moi Émile, toujours auprès de moi Émile ...
 
 CHAUFFEUR LIMOUSINE
-Emile! Emile! Tout le monde vous attend il faut y aller !
+Émile! Émile! Tout le monde vous attend il faut y aller !
 
 JEAN
 Alors que Carole ça y est l'équipe très attendue du film Red is dead vient d'arriver !
@@ -1854,16 +2030,16 @@ CAROLE
 Euh, non non tout à fait...En même temps il faut être honnête Jean, nous n'avons malheureusement pas le temps de voir les films, puisqu'il faut, se préparer, se coiffer, choisir les robes...
 
 JEAN
-Et vous êtes très belle Carole...
+Et vous êtes très belle Carole.
 
 CAROLE
-Merci Jean. Ah, voici le commissaire Bialès. ..... Le commissaire Bialès très élégant dans son smoking de chez ...
+Merci Jean. Ah, voici le commissaire Bialès. Le commissaire Bialès très élégant dans son smoking de chez ...
 
 JEAN
 Tchut tchut pas de marque !
 
 CAROLE
-Euh oui de chez tchut tchut pas de marque, 8 avenue de la Calanque à Antibes !
+Euh oui de chez "tchut tchut pas de marque", 8 avenue de la Calanque à Antibes !
 
 JEAN
 En France.
@@ -1892,8 +2068,8 @@ Serge ! Serge !
 SERGE KARAMAZOV
 Oh Corinne !
 
-LA FOULE
-Brouhaha ! Brouhaha ! Brouhaha !
+LE PUBLIC DU CINÉMA
+Brouhaha ! Brouhaha ! Brouhaha ! Brouhaha !
 
 SERGE KARAMAZOV
 Pardon s'il vous plait pardon... Pardon excusez-moi. Allez !!! Pardon, pardon. Régis pour Kara. Pardon ! Régis pour Kara. ...Le bouton rouge Régis !
@@ -1911,13 +2087,13 @@ CAROLE
 Alors que j'aperçois la vedette de la soirée, le, la future peut être 5ème victime, le projectionniste qui va ce soir projeter le film scandale.
 
 JEAN
-Oui Carole il s'agit d'un certain Emile Gravier, c'est tout ce que nous savons.
+Oui Carole il s'agit d'un certain Émile Gravier, c'est tout ce que nous savons.
 
 CAROLE
-Alors que Mme Martoni, femme du célèbre député assassin, monte les marches ; son visage s'éclaire. Elle vient d'apercevoir quelqu'un !
+Alors que Madame Martoni, femme du célèbre député assassin, monte les marches ; son visage s'éclaire. Elle vient d'apercevoir quelqu'un !
 
 JEAN
-Oui c'est Jean Paul Martoni son mari !... Martoni ?
+Oui c'est Jean-Paul Martoni son mari !... Martoni ?
 
 CAROLE
 Mais qu'est-ce qu'il fait là il était pas en prison ?
@@ -1938,58 +2114,55 @@ CRETIN DANS LA FOULE
 Luc, Luc
 
 VOISIN CRETIN DANS LA FOULE
-Emile, il s'appelle Emile
+Émile, il s'appelle Émile
 
 CRETIN DANS LA FOULE
-Emile, Emile.
+Émile, Émile.
 
-COMMISSAIRE BIALÈS
+La vieille descend avec son caddie.
+
+COMMISSAIRE BIALÈS (au ralenti)
 arrrrrrreeeettttteeeeeeeeeeeeeeez lleeeeeee ! Eeeeeeeexxxxxccccuuuusssseeeezzz mmmmmooooiiiii !
 
-CAROLE
+CAROLE (au ralenti)
 Cooommiiisssaaaiiire Biaaalllèèès ! Aaaaaaahh !
 
-(Un homme sort une banane de sa poche.)
+Un homme sort une banane de sa poche.
 
-(Emile s'évanouit.)
-
-(La vieille descend avec son caddie.)
+Émile s'évanouit.
 
 SERGE KARAMAZOV
-Emile ?
+Émile ?
 
-JEAN
+JEAN (manuellement au ralenti)
 aaaalloooooooooooors quuuuuuuuue revoiiiiiiiiiila lllllla souuuuuuuuuuuus preeeeeeeefeeeeeetttteee
 
 CAROLE
 Arrêtez Jean c'est fini !
 
-LA FOULE
+LE PUBLIC DU CINÉMA
 Remboursez nos invitations ! Remboursez nos invitations !
 
-(Amènent Emile dans une salle et le mettent sur le canapé.)
+(Amènent Émile dans une salle et le mettent sur le canapé.)
 
 ODILE DERAY
-Allez faîtes venir les infirmiers hein. (Empoigne Kara) Et vous là vous faîtes quelque choseuh !
+Allez faîtes venir les infirmiers hein. Et vous là vous faîtes quelque choseuh !
 
-SERGE KARAMAZOV
-(Baffe Emile)
+Serve baffe Émile
 
 ODILE DERAY
-(S'assied sur Emile et pleure avec son mascara coulé).
 Je n'ai pas attendu toutes ces années et tous ces morts pour rien ! C'est trop injuste ! J'ai pas mérité ça !
 
 SIMON JÉRÉMI
-Euh moi je peux vous le projectionner si vous voulez !
+Euh moi je peux vous le projectionner votre film si vous voulez !
 
 ODILE DERAY
-(Relève la tête, son maquillage refait)
 Vous Simon ? Mais c'est formidable mais comment... ?
 
 SIMON JÉRÉMI
 Mais parce que je suis projectionniste !
 
-LA FOULE
+LE PUBLIC DU CINÉMA
 Oh bah ça, ça tombe bien alors !
 
 SIMON JÉRÉMI
@@ -2005,49 +2178,44 @@ ODILE DERAY
 Il vous faut combien de temps Simon ?
 
 SIMON JÉRÉMI
-Bah laissez-moi 10min et je devrais y arriver.
+Bah laissez-moi 10 minutes et je devrais y arriver.
 
 ODILE DERAY
 Ok... Kara vous avez votre trompette ?
 
 SERGE KARAMAZOV
 Oui toujours.
-(Se lèvent et quittent la salle)
 
 ODILE DERAY
 Alors il faudra faire exactement ce que je vous dis.
 
-LA FOULE
+LE PUBLIC DU CINÉMA
 Aaaaaah.
 
-(Trompette)
+Serge joue de la trompette sur la scène.
 
-SERGE KARAMAZOV
-(Joue de la trompette sur la scène) (Danse)
-
-COMMISSAIRE BIALÈS
-(Le rejoint sur la scène) Excusez-moi je n'ai pas pu résister j'adore ce morceau.
+COMMISSAIRE BIALÈS (Le rejoint sur la scène)
+Excusez-moi je n'ai pas pu résister j'adore ce morceau.
 
 SERGE KARAMAZOV
 Sais tu danser la carioca ?
 
 COMMISSAIRE BIALÈS
-...Non ... ? (Le regarde danser).
+...Non ... ?
 
 SERGE KARAMAZOV
-Ce n'est pas un fox trot ou une polka ce n'est vraiment pas très compliqué pour la comprendre suis bien mes pas...
+Ce n'est pas un foxtrot ou une polka. Ce n'est vraiment pas très compliqué pour la comprendre suis bien mes pas.
 
 COMMISSAIRE BIALÈS
 Ce n'est pas un tango ou un tchatcha, encore moins une bossa nova, quand t'as goûté à cette danse, là tu ne peux, plus faire que çaaaa !
 
 SERGE KARAMAZOV
-Youpi ! Dansons la carioca ! C'est bien ! Fésez tous comme moi ! Youpi ! Avec la carioca ! Tant pis s'il faut dire aux autres danses, au revoir.
+Youpi ! Dansons la carioca ! C'est bien ! Faisez tous comme moi ! Youpi ! Avec la carioca ! Tant pis s'il faut dire aux autres danses, au revoir.
 
 COMMISSAIRE BIALÈS ^
-Youpi ! Dansons la carioca ! C'est bien ! Fésez tous comme moi ! Youpi ! Avec la carioca ! Tant pis s'il faut dire aux autres danses, au revoir.
+Youpi ! Dansons la carioca ! C'est bien ! Faisez tous comme moi ! Youpi ! Avec la carioca ! Tant pis s'il faut dire aux autres danses, au revoir.
 
-(La salle de projection.)
-(Simon jette du charbon dans un fourneau.)
+Dans la salle de projection, Simon jette du charbon dans un fourneau.
 
 ODILE DERAY
 Vous n'avez besoin de rien Simon ?
@@ -2062,19 +2230,19 @@ SIMON JÉRÉMI
 Si, des gencives de porc j'ai un peu faim. Vite, vite !
 
 SERGE KARAMAZOV
-Maintenant que tu danses la carioca, ça tu t'en fiches bien de la polka, tu n'en veux plus de la rumba, du Houla Hop, et du tchatchaaa...
+Maintenant que tu danses la carioca, ça tu t'en fiches bien de la polka, tu n'en veux plus de la rumba, du Hula Hoop, et du tchatchaaa...
 
 COMMISSAIRE BIALÈS
 Tout les matins dès le lever, la carioca te fait bouger, et quand tu danses chaque petit pas, te met en joie, pour la journéeeeee....
 
 SERGE KARAMAZOV
-Kara et Commissaire Bialès : Youpi ! Dansons la carioca ! C'est bien ! Fésez tous comme moi !
+Youpi ! Dansons la carioca ! C'est bien ! Faisez tous comme moi !
 
 COMMISSAIRE BIALÈS ^
-Kara et Commissaire Bialès : Youpi ! Dansons la carioca ! C'est bien ! Fésez tous comme moi !
+Youpi ! Dansons la carioca ! C'est bien ! Faisez tous comme moi !
 
 SIMON JÉRÉMI
-Ecoutez, je crois que j'ai fait tout ce qui était en mon pouvoir, j'ai fait le maximum, à ce niveau là où on en est je crois qu'on peut dire à la grâce de Dieu et....
+Ecoutez, je crois que j'ai fait tout ce qui était en mon pouvoir. J'ai fait le maximum, à ce niveau là où on en est je crois qu'on peut dire à la grâce de Dieu et, et y aller.
 
 ODILE DERAY
 Le film, vous l'avez mis ?
@@ -2082,21 +2250,21 @@ Le film, vous l'avez mis ?
 SIMON JÉRÉMI
 Hein...?
 
-(Scène)
 
-Kara et Commissaire Bialès
+SERGE KARAMAZOV
 Yououpi! Dansons la carioca ! c'est bien, fésez tous comme moi !
 
-ODILE DERAY
-(Fait signe de couper).
+COMMISSAIRE BIALÈS ^ 
+Yououpi! Dansons la carioca ! c'est bien, fésez tous comme moi !
 
-Kara et Commissaire Bialès
+SERGE KARAMAZOV
 Oh oui youpi ! Dansons la carioca ! Tant pis s'il faut dire à tout le monde au revoir !
 
-LA SALLE
-Une autre, une autre, une autre ...
+COMMISSAIRE BIALÈS ^ 
+Oh oui youpi ! Dansons la carioca ! Tant pis s'il faut dire à tout le monde au revoir !
 
-(En coulisse)
+LE PUBLIC DU CINÉMA
+Une autre, une autre, une autre ...
 
 SERGE KARAMAZOV
 J'aime pas quand c'est improvisé comme ça !!
@@ -2128,130 +2296,101 @@ On a localisé Martoni.
 COMMISSAIRE BIALÈS
 Martoni... Merde ! Je l'avais oublié celui-là. Bon allons-y, je finirai l'autographe plus tard. Allez !
 
-(On voit un éclair devant un écran. Emile ouvre les yeux.)
-
-(Dans le cinéma Odile arrive pour la projection)
-
 ODILE DERAY
-(Tombe)
 Oh excusez-moi. Je suis désolée c'est ce film toute cette pression...
 
-(Salle de projection. Simon au téléphone. Emile approche.)
-
 SIMON JÉRÉMI
-Oui... Oui ! Oui je sais mais papa y'a des gens qui tueraient pour avoir ce job ! Attends ne coupe pas ! Alors Emile ça va mieux ?
+Oui... Oui ! Oui je sais mais papa y'a des gens qui tueraient pour avoir ce job ! Attends ne coupe pas ! Alors Émile ça va mieux ?
 
-EMILE
+ÉMILE
 C'est à moi de projeter le film.
 
 SIMON JÉRÉMI
 Oui je sais mais, j'ai fait ça pour vous rendre service !
 
-EMILE
-(Dégaine une faucille et un marteau) C'est à moi !
+ÉMILE (Dégaine une faucille et un marteau)
+C'est à moi !
 
 SIMON JÉRÉMI
-Mais Emile c'était vous ! (Les bloque avec le téléphone et un couvercle)
+Mais Émile c'était vous !
 
-EMILE
+ÉMILE
 RRRRooui !
 
 SIMON JÉRÉMI
 Mais pourquoi ?
 
-EMILE
-Parce que ! (Continuent à se battre)
+ÉMILE
+Parce que !
 
 SIMON JÉRÉMI
 C'est pas une réponse !
 
-EMILE
+ÉMILE
 Si !
 
 SIMON JÉRÉMI
 Non !
 
-EMILE
+ÉMILE
 Tu veux savoir ?
 
 SIMON JÉRÉMI
 Oui...
 
-EMILE
-(Pose ses armes) Ecoute, il y a quelques temps je téléphone à Odile, pour lui demander du travail, elle se souvient même pas de moi ! Toutes ces belles promesses, envolées ! Voilà pourquoi je les ai tous tués. Pour qu'elle se rappelle de moi !... Odile a fait de moi un assassin.
+ÉMILE (Pose ses armes)
+Ecoute, il y a quelques temps je téléphone à Odile, pour lui demander du travail, elle se souvient même pas de moi ! Toutes ces belles promesses, envolées ! Voilà pourquoi je les ai tous tués. Pour qu'elle se rappelle de moi !... Odile a fait de moi un assassin.
 
 SIMON JÉRÉMI
-Attention Emile derrière vous !
+Attention Émile derrière vous !
 
-EMILE
+ÉMILE
 Ça ne prend pas Simon. On peut tromper mille fois une personne, mais on ne peut pas tromp... Si. On peut tromper une fois... Non !
 
-SIMON JÉRÉMI
-(Sa main cherche le plat à gencives de porc)
-
-EMILE
+ÉMILE
 On ne peut pas tromper une fois mille personnes, mais on peut tromper une fois mille personnes.
 
-SIMON JÉRÉMI
-(Lui jette le plat à la figure)
+Simon kui jette le plat à la figure
 
-EMILE
+ÉMILE
 Aaaah !
 
 SIMON JÉRÉMI
 Mange ça, pourriture communiste !
 
-EMILE
-(Fonce dans la machine et met en route une bobine)
-Dans le cinéma *allo ? Attention Benjamin derrière vous ! C'est affreux *
-
 ODILE DERAY
 L'imbécile il a fait partir la dernière bobine !
 
 SERGE KARAMAZOV
-ah c'est pour ça je me disais ça tient pas debout ils étaient à table et là d'un coup ils se retrouvent dehors.
+Ah c'est pour ça je me disais ça tient pas debout ils étaient à table et là d'un coup ils se retrouvent dehors.
 
 ODILE DERAY
 Mais enfin vite Kara allez voir ce qui se passe en cabine !
 
-SERGE KARAMAZOV
-(Lui renverse son pot de pop corn)
-
-(Salle de projection)
-
-EMILE
+ÉMILE
 Je vais tuer Odile. Puis je me tuerai moi. Mais d'abord c'est toi que je vais tuer !
 
 SIMON JÉRÉMI
 Tuez moi mais, la bouche fermée par pitié.
 
-SERGE KARAMAZOV
-(Court dans un couloir. Saute une chaise en plein milieu. Croise une fille.)
-
 NANA COULOIR
 Oh ! Serge !
 
 SERGE KARAMAZOV
-Je te rappelle! Je te rappelle! (Monte les escaliers. Voit Martoni)
+Je te rappelle! Je te rappelle!
+
+SERGE KARAMAZOV
 Je vais te dire un truc Martoni. C'est pas ton jour.
-(Se prend un gros coup de pied et se fait piétiner par une dizaine de policiers).
 
-Salle de projection
-
-EMILE
-(Etrangle Simon)
+Émile étrangle Simon en salle de projection.
 
 SIMON JÉRÉMI
 Prenez un chewing gum quand même.
 
-SERGE KARAMAZOV
-(Ouvre la porte d'un coup de pied)
-
-SIMON JÉRÉMI
-(Se débarrasse d'Emile)
+Serge ouvre la porte d'un coup de pied.
 
 SERGE KARAMAZOV
-Simon ! (Lui fait une clé de bras) Ah c'était toi l'assassin depuis le début je le savais !
+Simon ! Ah c'était toi l'assassin depuis le début je le savais !
 
 SIMON JÉRÉMI
 Mais non c'est pas moi ! aieuh ! Mais rattrape le c'est lui le tueur !
@@ -2260,29 +2399,27 @@ SERGE KARAMAZOV
 Hein ?
 
 SIMON JÉRÉMI
-C'est Emile! Emile. C'est Emile le tueur!
-(Bruit de tapette à souris)
-(Emile est pris dans une tapette géante)
+C'est Émile! Émile. C'est Émile le tueur!
+
+Émile est pris dans une tapette géante.
 
 SIMON JÉRÉMI
 Bien joué Kara ! Dire que je croyais que t'avais rien compris !
 
 SERGE KARAMAZOV
 Hein ?
-(Le commissaire et les policiers arrivent).
 
 COMMISSAIRE BIALÈS
 Que se passe-t-il ici ?
-(Odile arrive en courant par l'autre couloir)
 
 ODILE DERAY
 Ooooeeeeuh ! Oh mon Dieu Kara qu'est-ce qui c'est passé ?
 
 SERGE KARAMAZOV
-Euh c'est Emile. C'est lui le tueur. Et il s'est fait coincé par la tapette géante.
+Euh c'est Émile. C'est lui le tueur. Et il s'est fait coincé par la tapette géante.
 
 ODILE DERAY
-Ecoutez Kara. Monsieur n'est pas une tapette. Monsieur est commissaire de police. ... Mais alors Patrick, vous êtes innocent ?
+Ecoutez Kara. Monsieur n'est pas une tapette. Monsieur est commissaire de police. Mais alors Patrick, vous êtes innocent ?
 
 COMMISSAIRE BIALÈS
 Vous en aviez douté ?
@@ -2291,7 +2428,12 @@ ODILE DERAY
 Mais chez vous, le marteau, la faucille, le costume du tueur... J'ai pensé que...
 
 COMMISSAIRE BIALÈS
-Et qu'avez vous pensé Odile. .. La vérité est beaucoup plus simple ! J'étais, comment vous dire... (Musique trop forte pour entendre) je suis flic. Juste un flic.
+Et qu'avez vous pensé Odile? La vérité est beaucoup plus simple ! J'étais, comment vous dire...
+
+La musique est trop forte pour entendre le reste.
+
+COMMISSAIRE BIALÈS
+Je suis flic. Juste un flic.
 
 ODILE DERAY
 Oh mon Dieu comme j'ai été sotte. J'ai cru...
@@ -2300,19 +2442,16 @@ COMMISSAIRE BIALÈS
 Chuuut. Nous avons été sottes toutes les deux.
 
 SERGE KARAMAZOV
-(Sa main surgit avec un téléphone) Commissaire. Le préfet pour vous sur la ligne.
+Commissaire. Le préfet pour vous sur la ligne directe.
 
 COMMISSAIRE BIALÈS
-Oui, bonjour monsieur le préfet.... Non, mais toutes les issues sont surveillées, Martoni ne pourra pas s'échapper. Non, je n'ai... je n'ai vu que le début du film, oui. Oui...
-
-ODILE DERAY
-(S'éloigne pour se remaquiller)
+Oui, bonjour monsieur le préfet. Non, mais toutes les issues sont surveillées, Martoni ne pourra pas s'échapper. Non, je n'ai... je n'ai vu que le début du film, oui. Oui...
 
 COMMISSAIRE BIALÈS
-Ah, la première partie était très bien oui... hinhin... C'est parce que j'ai fait un peu de, de danse classique. Oui, c'est pour ça.
+Ah, la première partie était très bien oui... hmmm... C'est parce que j'ai fait un peu de, de danse classique. Oui, c'est pour ça.
 
-MARTONI
-(Surgit derrière Odile et l'attrape. Elle se fait un trait de rouge sur la joue) Bougez pas ! Ou je la flingue.
+MARTONI (Surgit derrière Odile et l'attrape. Elle se fait un trait de rouge sur la joue)
+Bougez pas ! Ou je la flingue.
 
 COMMISSAIRE BIALÈS
 Ne quittez pas monsieur le préfet. Martoni...
@@ -2321,7 +2460,7 @@ SIMON JÉRÉMI
 Qui c'est ?
 
 COMMISSAIRE BIALÈS
-Jean Paul, Martoni. Petit politicien véreux. Tueur d'écologiste, qui veut transformer la plage en parking, hum ?... N'ayez pas peur Odile. Je m'occupe de ça.
+Jean-Paul, Martoni. Petit politicien véreux. Tueur d'écologiste, qui veut transformer la plage en parking, hum ? N'ayez pas peur Odile. Je m'occupe de ça.
 
 MARTONI
 Stop ! N'avancez plus Bialès. Je veux un hélicoptère. Je veux que vous donniez l'ordre à vos hommes de me laisser quitter le palais sans problème ! Sinon je la flingue ! Et ce coup ci plus de tapette pour vous sauver !
@@ -2342,7 +2481,7 @@ SERGE KARAMAZOV
 Non, il a pas l'air de bluffer là quand même hein.
 
 COMMISSAIRE BIALÈS
-Siiihiii ! Il bluffe là !
+Siii ! Il bluffe là !
 
 SIMON JÉRÉMI
 Euh moi je suis de l'avis de Bialès, il bluffe hein. On, on vote ? On vote ? Moi je vote et je dis il bluffe.
@@ -2350,7 +2489,13 @@ Euh moi je suis de l'avis de Bialès, il bluffe hein. On, on vote ? On vote ? Mo
 MARTONI
 Ça suffit ! Vous essayez de gagner du temps.
 
-Kara, Simon, Commissaire Bialès
+SERGE KARAMAZOV
+Mmmm.... Non !
+
+SIMON JÉRÉMI ^
+Mmmm.... Non !
+
+COMMISSAIRE BIALÈS ^
 Mmmm.... Non !
 
 MARTONI
@@ -2359,11 +2504,10 @@ Bon vous l'aurez voulu. Je la butte !
 COMMISSAIRE BIALÈS
 Tu bluffes Martoni ! Ton arme n'est pas chargée !
 
-MARTONI
-(Lui tire dans le genou)
+Martoni lui tire dans le genou.
 
-COMMISSAIRE BIALÈS
-(Tombe à terre) Ahaaaahaaaaaïa ! Laisse !
+COMMISSAIRE BIALÈS (Tombe à terre)
+Ahaaaahaaaaaïa ! Laisse !
 
 SERGE KARAMAZOV
 J'avais voté, il bluffe pas.
@@ -2371,41 +2515,37 @@ J'avais voté, il bluffe pas.
 ODILE DERAY
 Peut être qu'il bluffe, hein, peut être qu'il avait qu'une seule balle !
 
-MARTONI
-(Lui tire dans l'autre genou)
+Martoni lui tire dans l'autre genou.
 
 COMMISSAIRE BIALÈS
-Aaaaaaïeuh ! (Se reprend) c'est-à-dire que là vous êtes lourd.
+Aaaaaaïeuh ! C'est-à-dire que là vous êtes lourd.
 
 PREFET AU TELEPHONE
 Allo ! Allo !!!
 
 SERGE KARAMAZOV
-Monsieur le préfet ? Non c'est Serge Karamazov à l'appareil je suis responsable de la sécurité ici. Non voilà, on a une prise d'otage. Le commissaire Bialès est salement blessé et une attaché de presse qui est maquillé je vous dis pas c'est une horreur.
+Monsieur le préfet ? Non c'est Serge Karamazov à l'appareil je suis responsable de la sécurité ici. Non voilà, on a une prise d'otage. Le commissaire Bialès est salement blessé et une attaché de presse qui est maquillée je vous dis pas c'est une horreur.
 
 MARTONI
-Dîtes au préfet que je veux un hélico dans 10mn sinon je la butte!
+Dîtes au préfet que je veux un hélico dans 10 minutes sinon je la butte!
 
 SERGE KARAMAZOV
-Martoni veut un hélico dans les 10min sinon il la butte. ... Il dit que vous bluffez.
+Martoni veut un hélico dans les 10 minutes sinon il la butte. ... Il dit que vous bluffez.
 
 COMMISSAIRE BIALÈS
 Dîtes lui que j'ai plus de genoux !
 
 SERGE KARAMAZOV
-Il dit qu'il a plus de genoux. .... Il dit qu'il voit pas le rapport.
+Il dit qu'il a plus de genoux. Il dit qu'il voit pas le rapport.
 
 MARTONI
 Bon ça suffit! Je compte 5 4 3 2 1 et à zéro paf ! Je lui explose la tête comme une pastèque !
 
 SERGE KARAMAZOV
-Il dit 5 4 3 0 et après PAF ! Pastèque. ... Je sais c'est un peu décousu mais moi je vous retranscris ça pêle-mêle aussi.
+Il dit 5 4 3 0 et après PAF ! Pastèque. Je sais c'est un peu décousu mais moi je vous retranscris ça pêle-mêle aussi.
 
 MARTONI
 5... 4... 3 ...
-
-EMILE
-(Se relève).
 
 MARTONI
 2...
@@ -2413,57 +2553,52 @@ MARTONI
 SERGE KARAMAZOV
 Euh il faudrait vous décider pour l'hélico parce que là il reste plus que 1.
 
-ODILE DERAY
-(Fait un signe de croix).
-
 MARTONI
 1...
 
-EMILE
-(Le frappe avec son marteau) Odile, je n'ai jamais osé vous en parler avant.
+ÉMILE
+Odile, je n'ai jamais osé vous en parler avant.
 
 ODILE DERAY
-Emile ! Vous m'avez sauvé ma vie ! Oh je vous dois une fière bretelle !
-(Coup de feu de Martoni. Emile tombe.)
+Émile ! Vous m'avez sauvé ma vie ! Oh je vous dois une fière bretelle !
 
 MARTONI
 Je me rends.
 
-EMILE
+ÉMILE
 Odile...
 
 ODILE DERAY
-(Agenouillée près d'Emile) Oui ?
+Oui ?
 
-EMILE
+ÉMILE
 Je vous ai toujours aimée.
 
 ODILE DERAY
 Je sais oui. ... Prenez un chewing gum. Et parlez-moi encore.
 
-EMILE
-(Avale) J'ai toujours voulu vous dire. On peut tromper une personne mille fois,
+ÉMILE
+J'ai toujours voulu vous dire. On peut tromper une personne mille fois,
 
 ODILE DERAY
 Oui,
 
-EMILE
+ÉMILE
 On peut tromper mille personnes une fois
 
 ODILE DERAY
 Oui !
 
-EMILE
+ÉMILE
 Mais on ne peut pas tromper mille personnes mille fois !
 
 ODILE DERAY
-Oui ! Oui ! (Applaudit)
-(Tout le monde applaudit)
+Oui ! Oui !
 
-GRIMALDI
-(Fonce avec son arme) Mais non !! Car en fait c'est moi l'assassin ! Non je déconne !
+Tout le monde applaudit.
 
-A la sortie du palais. Une ambulance.
+GRIMALDI (Fonce avec son arme)
+Mais non !! Car en fait c'est moi l'assassin ! Non je déconne !
 
 SIMON JÉRÉMI
 Mais vraiment, t'es sûr que l'éléphant il est plus fort que l'hippopotame ?
@@ -2481,13 +2616,13 @@ SIMON JÉRÉMI
 Ah.
 
 MARTONI
-(Contenu par les policiers) Dîtes donc mon vieux. Bravo hein. Vous avez empêché la construction d'un complexe hôtelier qui est de loin le projet le plus sophistiqué du siècle ! Ah ! Vous pouvez être fier. Enfin j'ai perdu quelques milliards au passage, mais ça, ça n'a aucune espèce d'importance hein. Ce qui est important c'est que vous soyez content! Hein ! Dîtes-le ! Je suis content !
+Dîtes donc mon vieux. Bravo hein. Vous avez réussi à empêcher la construction d'un complexe hôtelier pieds dans l'eau, hein, le projet le plus sophistiqué du siècle ! Ah ! Vous pouvez être fier. Enfin j'ai perdu quelques milliards au passage, mais ça, ça n'a aucune espèce d'importance hein. Ce qui est important mon vieux, c'est que vous soyez content! Hein ! Dîtes-le ! Je suis content !
 
 SIMON JÉRÉMI
-(Lui vomit dessus) (A Kara :) Je suis hyper content !
+Je suis hyper content !
 
 SERGE KARAMAZOV
-(Montre sa joue) Oh ! Il t'en reste un petit peu là.
+Oh ! Il t'en reste un petit peu là.
 
 SIMON JÉRÉMI
 Hein ?
@@ -2498,33 +2633,31 @@ Il t'en reste un peu là.
 SIMON JÉRÉMI
 Oh ! Oh. C'est parce que je suis content.
 
-(Un brancard arrive avec le commissaire Bialès et Odile à ses côtés. Les photographes arrivent, il se redresse et prend la pose.)
+Un brancard arrive avec le commissaire Bialès et Odile à ses côtés. Les photographes arrivent, il se redresse et prend la pose.
 
 ODILE DERAY
 S'il vous plait messieurs, s'il vous plait un petit peu de décence, laissez nous seuls.
-
-COMMISSAIRE BIALÈS
-(S'écroule)
 
 ODILE DERAY
 Patrick ! J'espère que tout ira bien, je suis si inquiète !
 
 COMMISSAIRE BIALÈS
-Ça va aller Odile, les médecins m'ont dit que je pourrai remarcher...
+Ça va aller Odile, les médecins m'ont dit que je pourrai remarcher.
 
 ODILE DERAY
-Mais je vous parle du film... Et vous vous pensez qu'à vos genoux. (Lui lâche la main.) Vous êtes d'un égoïsme !
+Mais je vous parle du film. Et vous vous pensez qu'à vos genoux. Vous êtes d'un égoïsme !
 
-(Bialès est mis dans l'ambulance. Odile lui fait signe. L'ambulancier lui répond.)
+ODILE DERAY (Fait signe)
+Simon Kara ! Ouhou !
+
+SIMON JÉRÉMI
+Ooooodile!
+
+SERGE KARAMAZOV ^
+Ooooodile!
 
 ODILE DERAY
-(Se retourne) (Fais signe) Simon Kara ! Ouhou !
-
-Simon et Kara
-Odile ! (Font signe) Ooooodile ! Ooooodile ! (Sont face à face).
-
-ODILE DERAY
-Ohoh ! Oh Simon Kara ! On se fait un resto je vous invite!
+Ohoh ! Oh Simon, Kara ! On se fait un resto je vous invite!
 
 SERGE KARAMAZOV
 Oh bah non, non non. On partage.
@@ -2539,16 +2672,16 @@ ODILE DERAY
 Oui.
 
 SIMON JÉRÉMI
-He, tout est bien qui finit bien.
+Hé, tout est bien qui finit bien.
 
 SERGE KARAMAZOV
-Ouais. Si ce n'est qu'Emile a emporté son secret dans la tombe.
+Ouais. Si ce n'est qu'Émile a emporté son secret dans la tombe.
 
 ODILE DERAY
 Quel secret ?
 
 SERGE KARAMAZOV
-Bah ces lettres, qu'il gravait sur le mur après chaque meurtre.... O, D, I, L... Humpf qu'est-ce que ça peut bien vouloir dire: 'ODIL'.
+Bah ces lettres, qu'il gravait sur le mur après chaque meurtre. O, D, I, L... Qu'est-ce que ça peut bien vouloir dire: 'ODIL'.
 
 ODILE DERAY
 Ça je sais pas c'est un mystère.
@@ -2563,4 +2696,4 @@ SERGE KARAMAZOV ^
 Non, italien, italien.
 
 SERGE KARAMAZOV
-Définitivement italien...
+Définitivement italien.
