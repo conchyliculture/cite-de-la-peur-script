@@ -85,7 +85,7 @@ Oh Sandy je suis désolé mon dieu c'est affreux !
 SANDY
 C'est pas grave mon chéri. C'est pas grave du tout.
 
-(L'affreux Youri s'est réveillé et Ben a assommé Suzanne et cherche les clés pour ouvrir la porte de sa décapotable.)
+L'affreux Youri s'est réveillé, Ben a assommé Suzanne en fuyant et cherche les clés pour ouvrir la porte de sa décapotable.
 
 BENJAMIN
 Zut !
@@ -119,13 +119,13 @@ Youri et Benjamin se battent.
 
 Panneau *MAZOUT: NE PAS SE REJETER DEDANS*
 
+Ben allume un briquet.
+
 BENJAMIN
-(allume un briquet)
 Meurs, pourriture communiste !
-(jette le briquet dans le mazout)
 
-
-BENJAMIN (en voix off)
+BENJAMIN
+(en voix off)
 *Red is dead. Adieu Youri.*
 
 ODILE DERAY
@@ -178,13 +178,13 @@ C'est quoi, ça de l'hermine tachetée? Qu'est-ce que c'est, mais je vais pas cr
 ODILE DERAY
 A demain m'sieur Jacques.
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Hmmm ? Une seconde, mon poussin. Comment ?
 
 ODILE DERAY
 Je dis à demain ! J'espère qu'on aura plus de monde qu'aujourd'hui, hein !
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Moi de toute façon j'suis payé pareil. Couvrez vous il pleut.
 
 ODILE DERAY
@@ -195,39 +195,41 @@ Le tonnerre retentit
 ODILE DERAY
 Ah...Bon allez. Mes amitiés à votre épouse hein !
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Ouais. J'y manquerais pas ! Quoi ? Alors. C'est combien ?
 
 ODILE DERAY
 Au revoir !
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 C'est combien de l'hermine tachetée ? Non, mais non je ne vais pas crier !
 (En criant)
 COMBIEN !!!
 
 Le meurtrier se rapproche dans les couloirs.
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Ah non non non c'était mortel aujourd'hui. Mais ne change pas de conversation !
 
 Le meurtrier fait grinçer sa faucille sur un tableau où est écrit:
 *Lundi 7 Mai*
 *Géographie*
-* - Les affluents du Burundi: *
+*Les affluents du Burundi: *
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Non plutôt crever que de vendre ma caravane...
 
 Le meurtrier fait du xylophone sur des barreaux.
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Je te... Je te dis que moi vivant... Quoi ? Quoi ? Mais...
+
+Youri donne un coup de pied au chat.
 
 LE CHAT
 meooooooooooooooooooow !
 
-PROJECTIONNISTE 1 (Mr Jacques)
+@PROJECTIONNISTE 1 (Mr Jacques)
 Oh attention chérie ça va couper.
 
 VOIX OFF
@@ -305,7 +307,8 @@ Je lui ai dit Jacques, c'est l'hermine ou la caravane ! Il a dit : banco.
 PERSONNE DERRIÈRE LA PORTE
 Cannes midi!
 
-L'HOMME INQUÉTANT (en voix off)
+L'HOMME INQUÉTANT 
+(en voix off)
 Meurtre du député vert Jacques Lelong. mm, mm... « Oh, la belle prise ».
 
 JOURNALISTE TV
@@ -697,7 +700,7 @@ C'est bon on prend la chambre. Mais rangez un peu. Je veux dire avec le prix qu'
 CHASSEUR "LE MARTINEZ"
 Eh dites, ça vous ennuie de me signer un petit autographe ?
 
-(Pendant l'autographe, Serge pose sur la table un tube de gel, sa trompette, un taser, et des tampax etc.)
+Pendant l'autographe, Serge pose sur la table un tube de gel, sa trompette, un taser, et des tampax etc.
 
 CHASSEUR "LE MARTINEZ"
 non ? Alors, voilà, c'est pour ma sœur, c'est pour Edwige. "pur" ? Non, "pour". Vous avez écrit "pur"... pas de h, Edwige avec un "e"... pas... "o-u" pas "ou" ! W ! Edwige !
@@ -735,7 +738,8 @@ J'suis hyper content !
 ODILE DERAY
 Aaaaaaaaaaaaah ! Aah.Aaaaaaaaaaaaaah !
 
-ODILE DERAY (Décroche le téléphone et appelle la police)
+ODILE DERAY
+(Décroche le téléphone et appelle la police)
 AAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaahhhh !
 
 LA FOULE DE JOURNALISTES
@@ -981,19 +985,24 @@ JOURNALISTE TV SOLEIL
 La fourmi n'est pas prêteuse ...
 Retour en France avec le meurtre de Jacques Lelong député vert. Jean-Paul Martoni est inculpé mais le leader du RPN reste introuvable, malgré les nombreuses convocations du parquet, un reportage de Jean Jacques Istadelle... bien petit problème je crois de nos amis de la technique, qu'ils me disent... bon d'accord passons directement au festival du film avec ce soir en compétition officielle, et bien la projection de "Octet, ou la démission du forgeron", du réalisateur ouzbek Mirjovsky Ibiksklivač, à qui on doit également le très très émouvant...pardon...d'accord. Voilà on me signale que le reportage décidément n'est pas tout à fait prêt, alors, et bien je vous propose de rester de rester! J'en bafouille! Dans cette bien belle ville de Cannes avec le deuxième meurtre d'un projectionniste assassiné à la faucille et au marteau alors qu'il projetait un film d'horreur, Red is dead. L'attachée de presse a été entendue par le commissaire Bialès, elle déclare ne rien savoir sur cette affaire, mais engage les gens à aller voir le film, un reportage de G... Ah, on me fait signe que non...
 
-SERGE KARAMAZOV (en voix off)
+SERGE KARAMAZOV
+(en voix off)
 Cannes, troisième jour
 
-SIMON JÉRÉMI (en voix off)
+SIMON JÉRÉMI
+(en voix off)
 Wahhh ah ah... quelle heure il est ?
 
-SERGE KARAMAZOV (en voix off)
+SERGE KARAMAZOV
+(en voix off)
 9h30 AM.
 
-SIMON JÉRÉMI (en voix off)
+SIMON JÉRÉMI
+(en voix off)
 Ouah déjà ?
 
-SERGE KARAMAZOV (en voix off)
+SERGE KARAMAZOV
+(en voix off)
 Non mais j'avance un peu.
 
 TELEVISION
@@ -1026,7 +1035,7 @@ Sarah Connor ?
 SARAH CONOR
 Oui ?
 
-(coups de feu)
+Coups de feu.
 
 ODILE DERAY
 Oh Simon ?
@@ -1073,7 +1082,7 @@ Et les notes aussi ! Mmm. parce que...
 ODILE DERAY
 Ça y est Simon? Vous êtes beau vous êtes prêt ?.... Ouais d'accord....Ouais là je crois que je vais prendre les choses en main là...
 
-(Ils partent faire du shopping pour Simon, sur la musique de Pretty Woman)
+Ils partent faire du shopping pour Simon, sur la musique de Pretty Woman.
 
 JOURNALISTE PIPELETTE 1
 Tu connais Christine ? La grande du service beauté ?
@@ -1269,7 +1278,8 @@ Bon. C'est 300 000 de plus hein, mais c'est du haut de gamme !
 MÔME JOURNAUX
 Demandez Cannes midi ! Le tueur de Cannes frappe encore, Red is dead l'évènement du festival. Achetez ! 5 cents monsieur. Merci.
 
-ÉMILE (en voix off)
+ÉMILE
+(en voix off)
 Martoni toujours en examen. La police est en train d'entendre un témoin oculaire sourd.
 
 ASSISTANT ODILE 1
@@ -1282,7 +1292,7 @@ ASSISTANT ODILE 1
 J'ai l'annonce pour engager le nouveau projectionniste.
 
 ODILE DERAY
-Oh, c'est vrai... 3 sont morts déjà !.....Lisez là moi ?
+Oh, c'est vrai... 3 sont morts déjà !.....Lisez-la moi ?
 
 ASSISTANT ODILE 1
 Alors Rech. proj. pr. proj. priv. self-dem. Brt. poss. S'adr. à. l'hôt. Mart.
@@ -1533,7 +1543,8 @@ Monsieur ! Monsieur ! C'est pas votre bouteille ! Allons Monsieur !
 SERGE KARAMAZOV
 Moi je sais moi. Toutes celles que j'ai escortées, je les ai baisées. D'accord ? Irina de France Berger : ze l'ai baisée. Jocelyn Turner : je l'ai baisée. Le prince Patrice de Moldavie, je l'ai baisé, j'étais bourré. N'empêche que je l'ai quand même baisé. Et ! Odile Deray, Madame Odile Deray. Pas le droit de la baiser!
 
-SERGE KARAMAZOV (urine sur la table)
+SERGE KARAMAZOV
+(urine sur la table)
 Parce que style ... Odile Deray, pas le droit de la baiser ! A toute.
 
 SERGE KARAMAZOV
@@ -1617,84 +1628,84 @@ Hmhmhm !
 Mieow ! Aha !
 Miieeoow !!
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Putain tu fais super bien le chat !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Merci !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Non mais vraiment, je le pense, vraiment !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Merci, du fond du cœur.
 
-ASSOCIEE DE BRUITAGE (en off)
+@ASSOCIEE DE BRUITAGE (en off)
 Eh c'est pour qui les cafés ?
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Chuuuuteuh !
 
-VOIX DE BRUITAGE 2 (en off) ^
+@VOIX DE BRUITAGE 2 (en off) ^
 Chuuuuteuh !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 On travaille on est en train d'enregistrer là.
 
-ASSOCIEE DE BRUITAGE (en off)
+@ASSOCIEE DE BRUITAGE (en off)
 Eh oh là, je suis pas ta bonne hein !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Bah ta gueule.
 
-ASSOCIEE DE BRUITAGE (en off)
+@ASSOCIEE DE BRUITAGE (en off)
 Ehhh, la tienne avant la mienne !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Eh ta gueule toi même !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Ça va trancher chérie !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Mais non mais qu'est-ce tu fais il faut dire "ça va couper chéri", pas "ça va trancher" !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Ah bon ?
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Mais oui t'étais où pendant le film toi.
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Ah mais non c'est parce que je fais ça à mi temps moi. Je suis pas à full time job, donc c'est pour ça que je suis un peu... enfin bon
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Ouais mais bon quand même tu devrais un peu t'intéresser.
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Non mais j'essaye de m'intéresser, mais ça m'intéresse...
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 ehh regardez regardez! Le tueur il s'est blessé au doigt !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Ouaah !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Il s'est blessé au doigt il s'est blessé au doigt le tueur !
 
-VOIX DE BRUITAGE 2 (en off)
+@VOIX DE BRUITAGE 2 (en off)
 Oh la la mais dis donc il a l'air salement blessé !
 
-VOIX DE BRUITAGE 1 (en off)
+@VOIX DE BRUITAGE 1 (en off)
 Mais ouaaais ! Au doigt.
 
 Les producteurs sont heureux de vous annoncer que le bruitage du film peut continuer normalement. Merci de votre compréhension.
 
-VOIX OFF
+@VOIX OFF
 Cannes, dernier jour 9h du matin
 
-ÉMILE (en off)
+@ÉMILE (en off)
 À qui le tour ? Qui sera la prochaine victime ? Qui osera ...
 
 ODILE DERAY
@@ -2011,7 +2022,7 @@ Salut Sylvie.
 ODILE DERAY
 Allez à demain ! Et quoi qu'y se passe dans ma vie vous serez toujours auprès de moi Émile. 
 
-ODILE (en off, retour au présent)
+@ODILE (en off, retour au présent)
 Dans ma vie vous serez toujours auprès de moi Émile, toujours auprès de moi Émile ...
 
 CHAUFFEUR LIMOUSINE
@@ -2121,10 +2132,12 @@ CRETIN DANS LA FOULE
 
 La vieille descend avec son caddie.
 
-COMMISSAIRE BIALÈS (au ralenti)
+COMMISSAIRE BIALÈS
+(au ralenti)
 arrrrrrreeeettttteeeeeeeeeeeeeeez lleeeeeee ! Eeeeeeeexxxxxccccuuuusssseeeezzz mmmmmooooiiiii !
 
-CAROLE (au ralenti)
+CAROLE
+(au ralenti)
 Cooommiiisssaaaiiire Biaaalllèèès ! Aaaaaaahh !
 
 Un homme sort une banane de sa poche.
@@ -2134,7 +2147,8 @@ Un homme sort une banane de sa poche.
 SERGE KARAMAZOV
 Émile ?
 
-JEAN (manuellement au ralenti)
+JEAN
+(manuellement au ralenti)
 aaaalloooooooooooors quuuuuuuuue revoiiiiiiiiiila lllllla souuuuuuuuuuuus preeeeeeeefeeeeeetttteee
 
 CAROLE
@@ -2143,12 +2157,12 @@ Arrêtez Jean c'est fini !
 LE PUBLIC DU CINÉMA
 Remboursez nos invitations ! Remboursez nos invitations !
 
-(Amènent Émile dans une salle et le mettent sur le canapé.)
+Ils amènent Émile dans une salle et le mettent sur le canapé.
 
 ODILE DERAY
 Allez faîtes venir les infirmiers hein. Et vous là vous faîtes quelque choseuh !
 
-Serve baffe Émile
+Serge baffe Émile
 
 ODILE DERAY
 Je n'ai pas attendu toutes ces années et tous ces morts pour rien ! C'est trop injuste ! J'ai pas mérité ça !
@@ -2194,7 +2208,8 @@ Aaaaaah.
 
 Serge joue de la trompette sur la scène.
 
-COMMISSAIRE BIALÈS (Le rejoint sur la scène)
+COMMISSAIRE BIALÈS
+(Le rejoint sur la scène)
 Excusez-moi je n'ai pas pu résister j'adore ce morceau.
 
 SERGE KARAMAZOV
@@ -2252,15 +2267,15 @@ Hein...?
 
 
 SERGE KARAMAZOV
-Yououpi! Dansons la carioca ! c'est bien, fésez tous comme moi !
+Yououpi! Dansons la carioca ! c'est bien, faisez tous comme moi !
 
-COMMISSAIRE BIALÈS ^ 
-Yououpi! Dansons la carioca ! c'est bien, fésez tous comme moi !
+COMMISSAIRE BIALÈS ^
+Yououpi! Dansons la carioca ! c'est bien, faisez tous comme moi !
 
 SERGE KARAMAZOV
 Oh oui youpi ! Dansons la carioca ! Tant pis s'il faut dire à tout le monde au revoir !
 
-COMMISSAIRE BIALÈS ^ 
+COMMISSAIRE BIALÈS ^
 Oh oui youpi ! Dansons la carioca ! Tant pis s'il faut dire à tout le monde au revoir !
 
 LE PUBLIC DU CINÉMA
@@ -2308,7 +2323,8 @@ C'est à moi de projeter le film.
 SIMON JÉRÉMI
 Oui je sais mais, j'ai fait ça pour vous rendre service !
 
-ÉMILE (Dégaine une faucille et un marteau)
+ÉMILE
+(Dégaine une faucille et un marteau)
 C'est à moi !
 
 SIMON JÉRÉMI
@@ -2338,7 +2354,8 @@ Tu veux savoir ?
 SIMON JÉRÉMI
 Oui...
 
-ÉMILE (Pose ses armes)
+ÉMILE
+(Pose ses armes)
 Ecoute, il y a quelques temps je téléphone à Odile, pour lui demander du travail, elle se souvient même pas de moi ! Toutes ces belles promesses, envolées ! Voilà pourquoi je les ai tous tués. Pour qu'elle se rappelle de moi !... Odile a fait de moi un assassin.
 
 SIMON JÉRÉMI
@@ -2450,7 +2467,8 @@ Oui, bonjour monsieur le préfet. Non, mais toutes les issues sont surveillées,
 COMMISSAIRE BIALÈS
 Ah, la première partie était très bien oui... hmmm... C'est parce que j'ai fait un peu de, de danse classique. Oui, c'est pour ça.
 
-MARTONI (Surgit derrière Odile et l'attrape. Elle se fait un trait de rouge sur la joue)
+MARTONI
+(Surgissant derrière Odile et l'attrape. Elle se fait un trait de rouge sur la joue)
 Bougez pas ! Ou je la flingue.
 
 COMMISSAIRE BIALÈS
@@ -2506,7 +2524,8 @@ Tu bluffes Martoni ! Ton arme n'est pas chargée !
 
 Martoni lui tire dans le genou.
 
-COMMISSAIRE BIALÈS (Tombe à terre)
+COMMISSAIRE BIALÈS
+(Tombe à terre)
 Ahaaaahaaaaaïa ! Laisse !
 
 SERGE KARAMAZOV
@@ -2597,7 +2616,8 @@ Oui ! Oui !
 
 Tout le monde applaudit.
 
-GRIMALDI (Fonce avec son arme)
+GRIMALDI
+(Fonce avec son arme)
 Mais non !! Car en fait c'est moi l'assassin ! Non je déconne !
 
 SIMON JÉRÉMI
@@ -2647,7 +2667,8 @@ COMMISSAIRE BIALÈS
 ODILE DERAY
 Mais je vous parle du film. Et vous vous pensez qu'à vos genoux. Vous êtes d'un égoïsme !
 
-ODILE DERAY (Fait signe)
+ODILE DERAY
+(Fait signe des bras)
 Simon Kara ! Ouhou !
 
 SIMON JÉRÉMI
